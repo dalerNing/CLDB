@@ -17,6 +17,6 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -9 -36 0 200 0 423"))
+        (Placement "44 2 3 -1 -1 -9 -36 0 200 0 423"))
       (Tab 0)))
   (MPSSessionName "daler"))
