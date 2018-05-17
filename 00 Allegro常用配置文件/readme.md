@@ -1,0 +1,2 @@
+- Color_A.col、Color_B.col 默认两种颜色配置
+- FILM_SETUP_2_Layer.txt 两层板光绘文件导出配置
