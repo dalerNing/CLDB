@@ -1,0 +1,22 @@
+\t (00:00:00) padstack_editor 17.2 S031 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Fri May 25 16:00:13 2018
+\t (00:00:00)         Host=BIAC-003 User=daler Pid=8404 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe F:\CLDB\test\th45_65c.pad
+\t (00:00:00) 
+\d (00:00:08) QtSignal MainWindow Units activated Millimeter
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:32) QtSignal MainWindow Units CurrentIndexChanged Mils
+\d (00:00:33) QtFillin Yes
+\w (00:00:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\d (00:00:36) QtSignal MainWindow Units CurrentIndexChanged Millimeter
+\d (00:00:37) QtFillin Yes
+\w (00:00:37) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\d (00:01:26) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:50) QtFillin No
+\t (00:01:50)     Journal end - Fri May 25 16:02:03 2018

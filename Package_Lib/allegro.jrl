@@ -1,0 +1,3998 @@
+\t (00:00:40) allegro 17.2 S031 Windows SPB 64-bit Edition
+\t (00:00:40)     Journal start - Sat May 26 15:37:44 2018
+\t (00:00:40)         Host=BIAC-003 User=daler Pid=11836 CPUs=4
+\t (00:00:40) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:40) 
+   (00:00:40) Loading axlcore.cxt 
+\t (00:00:40) Opening existing design...
+\i (00:00:41) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged FBGA396-0r65mm-23_23
+\d (00:00:41) Design opened: F:/CLDB/Package_Lib/FBGA396-0r65mm-23_23.dra
+\t (00:00:41) Grids are drawn 32.7680, 32.7680 apart for enhanced viewability.
+\t (00:00:41) Grids are drawn 2.0480, 2.0480 apart for enhanced viewability.
+\i (00:00:41) trapsize 13680
+\t (00:00:41) Grids are drawn 1.0240, 1.0240 apart for enhanced viewability.
+\i (00:00:41) trapsize 12637
+\t (00:00:41) Grids are drawn 2.0480, 2.0480 apart for enhanced viewability.
+\i (00:00:41) trapsize 13643
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 29.6044 72.7149
+\i (00:00:42) trapsize 13643
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 26.0573 67.2578
+\i (00:00:42) trapsize 13643
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 24.1473 64.5293
+\i (00:00:42) trapsize 13643
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 21.9645 61.8008
+\i (00:00:42) trapsize 13643
+\i (00:00:43) zoom out 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom out 20.8731 60.9823
+\i (00:00:43) trapsize 13643
+\i (00:00:45) open 
+\i (00:00:47) fillin "test.dra"
+\t (00:00:47) Opening existing design...
+\t (00:00:47) Grids are drawn 16.3840, 16.3840 apart for enhanced viewability.
+\t (00:00:47) Grids are drawn 2.0480, 2.0480 apart for enhanced viewability.
+\i (00:00:47) trapsize 13643
+\d (00:00:47) Design opened: F:/CLDB/Package_Lib/test.dra
+\i (00:00:47) trapsize 10000000
+\i (00:00:52) prmed 
+\i (00:00:53) setwindow form.prmedit
+\i (00:00:53) FORM prmedit design  
+\i (00:00:56) FORM prmedit cancel  
+\i (00:01:00) setwindow pcb
+\i (00:01:00) define grid 
+\t (00:01:00) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:02) setwindow form.grid
+\i (00:01:02) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:01:04) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:01:07) FORM grid all_etch all_etch_x_grids 0.1 
+\i (00:01:09) FORM grid all_etch all_etch_y_grids 0.1 
+\i (00:01:11) FORM grid done  
+\t (00:01:11) Grids are drawn 1.6000, 1.6000 apart for enhanced viewability.
+\i (00:01:13) setwindow pcb
+\i (00:01:13) save 
+\i (00:01:13) fillin yes 
+\e (00:01:14) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:01:14) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:17) setwindow text
+\i (00:01:17) close
+\i (00:01:17) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:20) open 
+\i (00:01:23) fillin "FBGA396-0r65mm-23_23.dra"
+\t (00:01:23) Opening existing design...
+\t (00:01:23) Grids are drawn 2.0480, 2.0480 apart for enhanced viewability.
+\i (00:01:23) trapsize 13643
+\d (00:01:23) Design opened: F:/CLDB/Package_Lib/FBGA396-0r65mm-23_23.dra
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -14.0518 17.5989
+\i (00:01:24) trapsize 13643
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -13.5061 16.2346
+\i (00:01:24) trapsize 13643
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -13.2333 15.9618
+\i (00:01:24) trapsize 13643
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -13.2333 15.9618
+\i (00:01:24) trapsize 13643
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -9.6862 20.6003
+\i (00:01:25) trapsize 13643
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -9.6862 20.6003
+\i (00:01:25) trapsize 13643
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -9.6862 20.6003
+\i (00:01:25) trapsize 13643
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -9.6862 20.6003
+\i (00:01:25) trapsize 13643
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out -9.6862 20.6003
+\i (00:01:25) trapsize 13643
+\i (00:01:25) zoom in 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom in -2.5921 2.8649
+\t (00:01:25) Grids are drawn 1.0240, 1.0240 apart for enhanced viewability.
+\i (00:01:25) trapsize 6821
+\i (00:01:25) zoom in 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom in -21.2824 2.0464
+\t (00:01:25) Grids are drawn 0.5120, 0.5120 apart for enhanced viewability.
+\i (00:01:25) trapsize 3411
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 4.5703 -1.5688
+\t (00:01:26) Grids are drawn 0.2560, 0.2560 apart for enhanced viewability.
+\i (00:01:26) trapsize 1705
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 4.5703 -1.5688
+\t (00:01:26) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:01:26) trapsize 853
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 2.0635 -1.2277
+\t (00:01:26) Grids are drawn 0.2560, 0.2560 apart for enhanced viewability.
+\i (00:01:26) trapsize 1705
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 1.8930 -1.2277
+\t (00:01:26) Grids are drawn 0.5120, 0.5120 apart for enhanced viewability.
+\i (00:01:26) trapsize 3411
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 1.6202 -1.2278
+\t (00:01:26) Grids are drawn 1.0240, 1.0240 apart for enhanced viewability.
+\i (00:01:26) trapsize 6821
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 1.6203 -1.2277
+\t (00:01:26) Grids are drawn 2.0480, 2.0480 apart for enhanced viewability.
+\i (00:01:26) trapsize 13643
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 58.2537 -7.7763
+\i (00:01:26) trapsize 13643
+\i (00:01:26) zoom out 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom out 57.7080 -7.7763
+\i (00:01:26) trapsize 13643
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 62.6194 -3.9563
+\i (00:01:27) trapsize 13643
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 63.1651 -3.9563
+\i (00:01:27) trapsize 13643
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 65.8936 -3.9563
+\i (00:01:27) trapsize 13643
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 67.8035 -3.6835
+\i (00:01:27) trapsize 13643
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 75.1705 -2.0464
+\i (00:01:27) trapsize 13643
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 83.6289 -0.9550
+\i (00:01:27) trapsize 13643
+\i (00:01:29) add pin 
+\i (00:01:46) setwindow form.mini
+\i (00:01:46) FORM mini pad_browse  
+\i (00:01:48) fillin "Smd0r3cir"
+\t (00:01:48) Using 'SMD0R3CIR.pad'.
+\i (00:02:07) FORM mini x_spacing 0.0000 
+\e (00:02:11) Must be a real number.
+\i (00:02:17) FORM mini y_spacing 0.0000 
+\i (00:02:41) FORM mini x_spacing 0.6500 
+\i (00:03:21) FORM mini next_pin_number A 
+\i (00:03:33) FORM mini next_pin_number A1 
+\i (00:03:41) FORM mini x_count 23 
+\i (00:03:58) FORM mini y_count 8 
+\i (00:04:03) FORM mini y_spacing 0.6500 
+\i (00:04:08) FORM mini offsetx -1.0000 
+\i (00:04:21) setwindow pcb
+\i (00:04:21) pick 0 0 
+\t (00:04:21) last pick:  0.0000 0.0000
+\t (00:04:21) Using 'SMD0R3CIR.pad'.
+\i (00:04:23) zoom in 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom in 22.7831 -3.4106
+\t (00:04:23) Grids are drawn 1.0240, 1.0240 apart for enhanced viewability.
+\i (00:04:23) trapsize 6821
+\i (00:04:23) zoom in 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom in -18.0082 -2.1828
+\t (00:04:23) Grids are drawn 0.5120, 0.5120 apart for enhanced viewability.
+\i (00:04:23) trapsize 3411
+\i (00:04:23) zoom in 1 
+\i (00:04:23) setwindow pcb
+\i (00:04:23) zoom in 3.2742 -3.0695
+\t (00:04:23) Grids are drawn 0.2560, 0.2560 apart for enhanced viewability.
+\i (00:04:23) trapsize 1705
+\i (00:04:24) zoom in 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom in 5.0137 -2.5238
+\t (00:04:24) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:04:24) trapsize 853
+\i (00:04:24) zoom in 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom in 5.0648 -2.4896
+\t (00:04:24) Grids are drawn 0.0640, 0.0640 apart for enhanced viewability.
+\i (00:04:24) trapsize 426
+\i (00:04:25) prepopup 3.8029 -2.6090
+\i (00:04:25) done 
+\t (00:04:25) Exiting from Add Pin.
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out 2.7541 -3.2144
+\t (00:04:26) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:04:26) trapsize 853
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out 2.4814 -3.4190
+\t (00:04:26) Grids are drawn 0.2560, 0.2560 apart for enhanced viewability.
+\i (00:04:26) trapsize 1705
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in 1.0489 0.1963
+\t (00:04:27) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:04:27) trapsize 853
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in 1.0830 0.1964
+\t (00:04:27) Grids are drawn 0.0640, 0.0640 apart for enhanced viewability.
+\i (00:04:27) trapsize 426
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in -0.3153 0.1879
+\t (00:04:27) Grids are drawn 0.0320, 0.0320 apart for enhanced viewability.
+\i (00:04:27) trapsize 213
+\i (00:04:31) color192 
+\i (00:04:34) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:04:36) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 11 0
+\i (00:04:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:04:36) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:04:37) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:04:37) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:04:38) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:04:45) zoom out 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom out 0.5416 0.6057
+\t (00:04:45) Grids are drawn 0.0640, 0.0640 apart for enhanced viewability.
+\i (00:04:45) trapsize 426
+\i (00:04:45) zoom out 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom out 0.5417 0.6057
+\t (00:04:45) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:04:45) trapsize 853
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 1.8718 -0.2469
+\t (00:04:46) Grids are drawn 0.2560, 0.2560 apart for enhanced viewability.
+\i (00:04:46) trapsize 1705
+\i (00:04:46) zoom out 1 
+\i (00:04:46) setwindow pcb
+\i (00:04:46) zoom out 1.8717 -0.2468
+\t (00:04:46) Grids are drawn 0.5120, 0.5120 apart for enhanced viewability.
+\i (00:04:46) trapsize 3411
+\i (00:04:47) zoom in 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom in 0.3028 1.7313
+\t (00:04:47) Grids are drawn 0.2560, 0.2560 apart for enhanced viewability.
+\i (00:04:47) trapsize 1705
+\i (00:04:47) zoom in 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom in 0.3029 1.7314
+\t (00:04:47) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:04:47) trapsize 853
+\i (00:04:47) zoom out 1 
+\i (00:04:47) setwindow pcb
+\i (00:04:47) zoom out -0.0893 0.3330
+\t (00:04:47) Grids are drawn 0.2560, 0.2560 apart for enhanced viewability.
+\i (00:04:47) trapsize 1705
+\i (00:04:48) zoom in 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom in 14.2355 -0.4856
+\t (00:04:48) Grids are drawn 0.1280, 0.1280 apart for enhanced viewability.
+\i (00:04:48) trapsize 853
+\i (00:04:50) grid toggle 
+\i (00:04:52) show measure 
+\i (00:04:54) pick grid 0.1153 -0.0934
+\t (00:04:54) last pick:  0.1150 -0.0930
+\i (00:04:55) pick grid 14.3549 -0.0422
+\t (00:04:55) last pick:  14.3550 -0.0420
+\i (00:05:02) setwindow text
+\i (00:05:02) close
+\i (00:05:03) prepopup 6.6127 4.3064
+\i (00:05:03) done 
+\i (00:05:07) color192 
+\i (00:05:11) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:05:12) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 11 0
+\i (00:05:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:05:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:14) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:05:14) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:05:15) zoom in 1 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom in 3.5772 -3.9474
+\i (00:05:15) trapsize 426
+\i (00:05:15) zoom in 1 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom in 3.6539 -3.9985
+\i (00:05:15) trapsize 213
+\i (00:05:16) zoom out 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom out 4.7155 -4.0624
+\i (00:05:16) trapsize 426
+\i (00:05:16) zoom out 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom out 4.7923 -4.0624
+\i (00:05:16) trapsize 853
+\i (00:05:16) zoom in 1 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 0.6312 -5.1197
+\i (00:05:16) trapsize 426
+\i (00:05:17) zoom out 1 
+\i (00:05:17) setwindow pcb
+\i (00:05:17) zoom out 0.6909 -5.0344
+\i (00:05:17) trapsize 853
+\i (00:05:18) zoom in 1 
+\i (00:05:18) setwindow pcb
+\i (00:05:18) zoom in -0.5200 0.4056
+\i (00:05:18) trapsize 426
+\i (00:05:19) zoom out 1 
+\i (00:05:19) setwindow pcb
+\i (00:05:19) zoom out -0.5200 0.4056
+\i (00:05:19) trapsize 853
+\i (00:05:23) delete 
+\i (00:05:23) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:05:24) drag_start grid -2.3789 1.9404
+\i (00:05:24) roam y 32
+\i (00:05:24) roam y 16
+\i (00:05:24) roam y 16
+\i (00:05:25) drag_stop 15.5783 -5.9506
+\e (00:05:26) Command not found: Del
+\i (00:05:27) pick grid 8.2794 -0.9028
+\t (00:05:27) last pick:  8.2790 -0.9030
+\i (00:05:28) prepopup 3.9649 0.6149
+\i (00:05:28) done 
+\i (00:05:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:05:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:05:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:05:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:05:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:05:30) zoom out 1 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom out 5.0393 0.6490
+\i (00:05:30) trapsize 1705
+\i (00:05:34) save 
+\i (00:05:34) fillin yes 
+\e (00:05:35) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:05:37) setwindow text
+\i (00:05:37) close
+\i (00:05:39) add pin 
+\t (00:05:39) Using 'SMD0R3CIR.pad'.
+\i (00:05:44) setwindow form.mini
+\i (00:05:44) FORM mini y_count 1 
+\i (00:05:45) FORM mini next_pin_number A1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) pick 0 0 
+\t (00:05:58) last pick:  0.0000 0.0000
+\t (00:05:58) Using 'SMD0R3CIR.pad'.
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in 11.0079 -0.0331
+\i (00:06:00) trapsize 853
+\i (00:06:00) zoom in 1 
+\i (00:06:00) setwindow pcb
+\i (00:06:00) zoom in 11.0250 -0.0160
+\i (00:06:00) trapsize 426
+\i (00:06:01) zoom in 1 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom in 14.2907 0.0352
+\i (00:06:01) trapsize 213
+\i (00:06:03) zoom out 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom out 13.7237 -0.1268
+\i (00:06:03) trapsize 426
+\i (00:06:03) zoom out 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom out 13.7152 -0.1354
+\i (00:06:03) trapsize 853
+\i (00:06:03) zoom out 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom out 13.7152 -0.1353
+\i (00:06:03) trapsize 1705
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -0.5074 0.0351
+\i (00:06:04) trapsize 853
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -0.5074 0.0692
+\i (00:06:04) trapsize 426
+\i (00:06:04) zoom in 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom in -0.1919 0.0692
+\i (00:06:04) trapsize 213
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out -1.1256 -0.0757
+\i (00:06:05) trapsize 426
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out -1.1085 -0.0672
+\i (00:06:05) trapsize 853
+\i (00:06:12) setwindow form.mini
+\i (00:06:12) FORM mini next_pin_number B1 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) tab 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) mouse_pos 10.7605 -0.3400
+\i (00:06:13) tab
+\w (00:06:13) WARNING(SPMHA1-314): Illegal event.
+\i (00:06:29) pick 0 -0.65 
+\t (00:06:29) last pick:  0.0000 -0.6500
+\t (00:06:29) Using 'SMD0R3CIR.pad'.
+\i (00:06:31) prepopup -2.9674 -1.4655
+\i (00:06:32) done 
+\t (00:06:32) Exiting from Add Pin.
+\i (00:06:33) zoom in 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom in -0.4265 0.2228
+\i (00:06:33) trapsize 426
+\i (00:06:33) zoom in 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom in -0.4265 0.2228
+\i (00:06:33) trapsize 213
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out -0.2090 -0.5318
+\i (00:06:35) trapsize 426
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out -0.2261 -0.5317
+\i (00:06:35) trapsize 853
+\i (00:06:36) zoom out 1 
+\i (00:06:36) setwindow pcb
+\i (00:06:36) zoom out 2.7753 -0.4636
+\i (00:06:36) trapsize 1705
+\i (00:06:36) zoom in 1 
+\i (00:06:36) setwindow pcb
+\i (00:06:36) zoom in 16.4863 -0.4976
+\i (00:06:36) trapsize 853
+\i (00:06:36) zoom in 1 
+\i (00:06:36) setwindow pcb
+\i (00:06:36) zoom in 16.4863 -0.4976
+\i (00:06:36) trapsize 426
+\i (00:06:43) zoom out 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom out 16.2134 1.2163
+\i (00:06:43) trapsize 853
+\i (00:06:44) zoom out 1 
+\i (00:06:44) setwindow pcb
+\i (00:06:44) zoom out 16.1281 1.0799
+\i (00:06:44) trapsize 1705
+\i (00:06:45) zoom in 1 
+\i (00:06:45) setwindow pcb
+\i (00:06:45) zoom in 16.0940 1.1481
+\i (00:06:45) trapsize 853
+\i (00:06:45) zoom in 1 
+\i (00:06:45) setwindow pcb
+\i (00:06:45) zoom in 16.0941 1.1481
+\i (00:06:45) trapsize 426
+\i (00:06:45) zoom out 1 
+\i (00:06:45) setwindow pcb
+\i (00:06:45) zoom out 16.0344 1.1226
+\i (00:06:45) trapsize 853
+\i (00:06:46) show measure 
+\i (00:06:49) pick grid 0.0553 0.1164
+\t (00:06:49) last pick:  0.0550 0.1160
+\i (00:06:50) pick grid 14.1755 -0.0030
+\t (00:06:50) last pick:  14.1760 -0.0030
+\i (00:06:53) setwindow text
+\i (00:06:53) close
+\i (00:06:53) prepopup 6.7231 4.7379
+\i (00:06:54) done 
+\i (00:06:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:06:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:06:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:06:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:06:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:06:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:06:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:06:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:07:04) zoom out 1 
+\i (00:07:04) setwindow pcb
+\i (00:07:04) zoom out 11.2082 -1.6742
+\i (00:07:04) trapsize 1705
+\i (00:07:05) zoom in 1 
+\i (00:07:05) setwindow pcb
+\i (00:07:05) zoom in -1.4795 -1.9130
+\i (00:07:05) trapsize 853
+\i (00:07:05) zoom in 1 
+\i (00:07:05) setwindow pcb
+\i (00:07:05) zoom in -1.4795 -1.9130
+\i (00:07:05) trapsize 426
+\i (00:07:05) zoom out 1 
+\i (00:07:05) setwindow pcb
+\i (00:07:05) zoom out -1.4113 -1.8618
+\i (00:07:05) trapsize 853
+\i (00:07:11) add pin 
+\t (00:07:11) Using 'SMD0R3CIR.pad'.
+\i (00:07:18) setwindow form.mini
+\i (00:07:18) FORM mini next_pin_number C1 
+\i (00:07:30) setwindow pcb
+\i (00:07:30) pick 0 -0.65*2 
+\t (00:07:30) last pick:  0.0000 -0.6500
+\t (00:07:30) Using 'SMD0R3CIR.pad'.
+\i (00:07:34) prepopup -3.1508 3.4758
+\i (00:07:35) cancel 
+\t (00:07:35) Exiting from Add Pin.
+\i (00:07:39) add pin 
+\t (00:07:39) Using 'SMD0R3CIR.pad'.
+\i (00:07:45) setwindow form.mini
+\i (00:07:45) FORM mini next_pin_number C1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) pick 0 -1.3 
+\t (00:07:52) last pick:  0.0000 -1.3000
+\t (00:07:52) Using 'SMD0R3CIR.pad'.
+\i (00:07:54) prepopup -3.0826 0.3210
+\i (00:07:55) done 
+\t (00:07:55) Exiting from Add Pin.
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 0.9932 -1.9471
+\i (00:07:55) trapsize 426
+\i (00:08:00) zoom out 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom out 0.1576 -1.5463
+\i (00:08:00) trapsize 853
+\i (00:08:02) zoom in 1 
+\i (00:08:02) setwindow pcb
+\i (00:08:02) zoom in 0.3621 -1.1712
+\i (00:08:02) trapsize 426
+\i (00:08:02) zoom in 1 
+\i (00:08:02) setwindow pcb
+\i (00:08:02) zoom in 0.3621 -1.1711
+\i (00:08:02) trapsize 213
+\i (00:08:04) zoom out 1 
+\i (00:08:04) setwindow pcb
+\i (00:08:04) zoom out 0.3621 -1.1711
+\i (00:08:04) trapsize 426
+\i (00:08:08) show measure 
+\i (00:08:10) pick grid -0.0130 -1.3161
+\t (00:08:10) last pick:  -0.0130 -1.3160
+\i (00:08:12) pick grid 0.0296 -0.0371
+\t (00:08:12) last pick:  0.0300 -0.0370
+\i (00:08:20) setwindow text
+\i (00:08:20) close
+\i (00:08:21) prepopup 1.9737 1.8985
+\i (00:08:21) done 
+\i (00:08:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:08:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:08:22) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:10:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:10:49) add pin 
+\t (00:10:50) Using 'SMD0R3CIR.pad'.
+\i (00:10:54) setwindow form.mini
+\i (00:10:54) FORM mini next_pin_number D1 
+\i (00:11:03) setwindow pcb
+\i (00:11:03) pick 0 -1.95 
+\t (00:11:03) last pick:  0.0000 -1.9500
+\t (00:11:03) Using 'SMD0R3CIR.pad'.
+\i (00:11:08) setwindow form.mini
+\i (00:11:08) FORM mini next_pin_number E1 
+\i (00:11:14) setwindow pcb
+\i (00:11:14) pick 0 -2.6 
+\t (00:11:14) last pick:  0.0000 -2.6000
+\t (00:11:14) Using 'SMD0R3CIR.pad'.
+\i (00:11:19) setwindow form.mini
+\i (00:11:19) FORM mini next_pin_number F1 
+\i (00:11:32) setwindow pcb
+\i (00:11:32) pick 0 -3.25 
+\t (00:11:32) last pick:  0.0000 -3.2500
+\t (00:11:32) Using 'SMD0R3CIR.pad'.
+\i (00:11:38) setwindow form.mini
+\i (00:11:38) FORM mini next_pin_number G1 
+\i (00:11:49) setwindow pcb
+\i (00:11:49) pick 0 -3.9 
+\t (00:11:49) last pick:  0.0000 -3.9000
+\t (00:11:49) Using 'SMD0R3CIR.pad'.
+\i (00:11:50) zoom out 1 
+\i (00:11:50) setwindow pcb
+\i (00:11:50) zoom out -0.8998 -0.4208
+\i (00:11:50) trapsize 853
+\i (00:11:56) setwindow form.mini
+\i (00:11:56) FORM mini next_pin_number H1 
+\i (00:12:10) setwindow pcb
+\i (00:12:10) pick 0 -4.55 
+\t (00:12:10) last pick:  0.0000 -4.5500
+\t (00:12:10) Using 'SMD0R3CIR.pad'.
+\i (00:12:30) setwindow form.mini
+\i (00:12:30) FORM mini next_pin_number J 
+\i (00:12:33) FORM mini next_pin_number J1 
+\i (00:12:46) setwindow pcb
+\i (00:12:46) pick 0 -5.2 
+\t (00:12:46) last pick:  0.0000 -5.2000
+\t (00:12:46) Using 'SMD0R3CIR.pad'.
+\i (00:12:53) setwindow form.mini
+\i (00:12:53) FORM mini next_pin_number K1 
+\i (00:13:02) setwindow pcb
+\i (00:13:02) pick 0 -5.85 
+\t (00:13:02) last pick:  0.0000 -5.8500
+\t (00:13:02) Using 'SMD0R3CIR.pad'.
+\i (00:13:13) setwindow form.mini
+\i (00:13:13) FORM mini next_pin_number L1 
+\i (00:13:21) setwindow pcb
+\i (00:13:21) pick 0 -6.5 
+\t (00:13:21) last pick:  0.0000 -6.5000
+\t (00:13:21) Using 'SMD0R3CIR.pad'.
+\i (00:13:23) zoom out 1 
+\i (00:13:23) setwindow pcb
+\i (00:13:23) zoom out 0.0893 -1.3757
+\i (00:13:23) trapsize 1705
+\i (00:13:24) zoom in 1 
+\i (00:13:24) setwindow pcb
+\i (00:13:24) zoom in -0.1154 -6.6964
+\i (00:13:24) trapsize 853
+\i (00:13:24) zoom out 1 
+\i (00:13:24) setwindow pcb
+\i (00:13:24) zoom out 0.1234 -6.3553
+\i (00:13:24) trapsize 1705
+\i (00:13:45) setwindow form.mini
+\i (00:13:45) FORM mini next_pin_number M1 
+\i (00:13:53) setwindow pcb
+\i (00:13:53) pick 0 -7.15 
+\t (00:13:53) last pick:  0.0000 -7.1500
+\t (00:13:53) Using 'SMD0R3CIR.pad'.
+\i (00:13:58) setwindow form.mini
+\i (00:13:58) FORM mini next_pin_number N1 
+\i (00:14:06) setwindow pcb
+\i (00:14:06) pick 0 -7.8 
+\t (00:14:06) last pick:  0.0000 -7.8000
+\t (00:14:06) Using 'SMD0R3CIR.pad'.
+\i (00:14:17) zoom in 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom in -1.1044 -8.0948
+\i (00:14:18) trapsize 853
+\i (00:14:18) zoom in 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom in -1.0874 -8.0947
+\i (00:14:18) trapsize 426
+\i (00:14:18) zoom out 1 
+\i (00:14:18) setwindow pcb
+\i (00:14:18) zoom out -1.0277 -8.1117
+\i (00:14:18) trapsize 853
+\i (00:14:24) setwindow form.mini
+\i (00:14:24) FORM mini next_pin_number P1 
+\i (00:14:33) setwindow pcb
+\i (00:14:33) pick 0 -8.45 
+\t (00:14:33) last pick:  0.0000 -8.4500
+\t (00:14:33) Using 'SMD0R3CIR.pad'.
+\i (00:14:44) setwindow form.mini
+\i (00:14:44) FORM mini next_pin_number R1 
+\i (00:14:52) setwindow pcb
+\i (00:14:52) pick 0 -9.1 
+\t (00:14:52) last pick:  0.0000 -9.1000
+\t (00:14:52) Using 'SMD0R3CIR.pad'.
+\i (00:15:02) setwindow form.mini
+\i (00:15:02) FORM mini next_pin_number T1 
+\i (00:15:10) setwindow pcb
+\i (00:15:10) pick 0 -9.75 
+\t (00:15:10) last pick:  0.0000 -9.7500
+\t (00:15:10) Using 'SMD0R3CIR.pad'.
+\i (00:15:11) zoom out 1 
+\i (00:15:11) setwindow pcb
+\i (00:15:11) zoom out 2.9458 -6.2870
+\i (00:15:11) trapsize 1705
+\i (00:15:12) zoom in 1 
+\i (00:15:12) setwindow pcb
+\i (00:15:12) zoom in 3.9007 -6.4235
+\i (00:15:12) trapsize 853
+\i (00:15:13) zoom out 1 
+\i (00:15:13) setwindow pcb
+\i (00:15:13) zoom out 3.3380 -6.5258
+\i (00:15:13) trapsize 1705
+\i (00:15:18) setwindow form.mini
+\i (00:15:18) FORM mini next_pin_number U1 
+\i (00:15:25) setwindow pcb
+\i (00:15:25) pick 0 -10.4 
+\t (00:15:25) last pick:  0.0000 -10.4000
+\t (00:15:25) Using 'SMD0R3CIR.pad'.
+\i (00:15:30) setwindow form.mini
+\i (00:15:30) FORM mini next_pin_number V1 
+\i (00:15:36) setwindow pcb
+\i (00:15:36) pick 0 -11.05 
+\t (00:15:36) last pick:  0.0000 -11.0500
+\t (00:15:36) Using 'SMD0R3CIR.pad'.
+\i (00:15:43) setwindow form.mini
+\i (00:15:43) FORM mini next_pin_number W1 
+\i (00:15:53) setwindow pcb
+\i (00:15:53) pick 0 -11.7 
+\t (00:15:53) last pick:  0.0000 -11.7000
+\t (00:15:53) Using 'SMD0R3CIR.pad'.
+\i (00:15:57) setwindow form.mini
+\i (00:15:57) FORM mini next_pin_number Y1 
+\i (00:16:04) setwindow pcb
+\i (00:16:04) pick 0 -12.35 
+\t (00:16:04) last pick:  0.0000 -12.3500
+\t (00:16:04) Using 'SMD0R3CIR.pad'.
+\i (00:16:11) setwindow form.mini
+\i (00:16:11) FORM mini next_pin_number AA 
+\i (00:16:16) setwindow pcb
+\i (00:16:16) pick 0 -13 
+\t (00:16:16) last pick:  0.0000 -13.0000
+\t (00:16:16) Using 'SMD0R3CIR.pad'.
+\i (00:16:22) prepopup 17.5605 -4.0700
+\i (00:16:22) done 
+\t (00:16:22) Exiting from Add Pin.
+\i (00:16:24) zoom in 1 
+\i (00:16:24) setwindow pcb
+\i (00:16:24) zoom in 0.5753 -12.9378
+\i (00:16:24) trapsize 853
+\i (00:16:29) delete 
+\i (00:16:30) drag_start grid -1.1129 -13.6199
+\i (00:16:32) roam x 16
+\i (00:16:32) roam x 16
+\i (00:16:32) roam x 16
+\i (00:16:32) roam x 16
+\i (00:16:32) roam x 16
+\i (00:16:33) drag_stop 14.6839 -13.0231
+\e (00:16:43) Command not found: Del
+\i (00:16:45) prepopup 12.9615 -13.1254
+\i (00:16:46) done 
+\i (00:16:49) save 
+\i (00:16:50) fillin yes 
+\e (00:16:50) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:16:52) setwindow text
+\i (00:16:52) close
+\i (00:16:54) add pin 
+\t (00:16:54) Using 'SMD0R3CIR.pad'.
+\i (00:17:02) setwindow form.mini
+\i (00:17:02) FORM mini next_pin_number AA1 
+\i (00:17:08) setwindow pcb
+\i (00:17:08) pick 0 -13 
+\t (00:17:08) last pick:  0.0000 -13.0000
+\t (00:17:08) Using 'SMD0R3CIR.pad'.
+\i (00:17:14) setwindow form.mini
+\i (00:17:14) FORM mini next_pin_number 'AB!' 
+\e (00:17:14) ERROR(SPMHAP-5): Only numeric/alpha-numeric pin numbers allowed.
+\i (00:17:20) FORM mini next_pin_number AB1 
+\i (00:17:27) setwindow pcb
+\i (00:17:27) pick 0 -13.65 
+\t (00:17:27) last pick:  0.0000 -13.6500
+\t (00:17:27) Using 'SMD0R3CIR.pad'.
+\i (00:17:32) setwindow form.mini
+\i (00:17:32) FORM mini next_pin_number AC1 
+\i (00:17:39) setwindow pcb
+\i (00:17:39) pick 0 -14.3 
+\t (00:17:39) last pick:  0.0000 -14.3000
+\t (00:17:39) Using 'SMD0R3CIR.pad'.
+\i (00:17:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:17:41) prepopup -3.9043 -4.6669
+\i (00:17:41) done 
+\t (00:17:41) Exiting from Add Pin.
+\i (00:17:42) zoom out 1 
+\i (00:17:42) setwindow pcb
+\i (00:17:42) zoom out -0.1014 -9.6124
+\i (00:17:42) trapsize 1705
+\i (00:17:42) zoom out 1 
+\i (00:17:42) setwindow pcb
+\i (00:17:42) zoom out -1.1246 -9.7147
+\i (00:17:42) trapsize 3411
+\i (00:17:43) zoom in 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom in 0.0351 -6.6451
+\i (00:17:43) trapsize 1705
+\i (00:17:43) zoom in 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom in 0.1716 -6.6110
+\i (00:17:43) trapsize 853
+\i (00:17:43) zoom out 1 
+\i (00:17:43) setwindow pcb
+\i (00:17:43) zoom out 0.3422 -6.4063
+\i (00:17:43) trapsize 1705
+\i (00:17:44) save 
+\i (00:17:44) fillin yes 
+\e (00:17:45) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:17:47) setwindow text
+\i (00:17:47) close
+\i (00:17:47) zoom in 1 
+\i (00:17:47) setwindow pcb
+\i (00:17:47) zoom in -1.8066 -0.1990
+\i (00:17:47) trapsize 853
+\i (00:17:47) zoom in 1 
+\i (00:17:47) setwindow pcb
+\i (00:17:47) zoom in -1.8066 -0.1989
+\i (00:17:47) trapsize 426
+\i (00:17:49) zoom out 1 
+\i (00:17:49) setwindow pcb
+\i (00:17:49) zoom out -1.1415 -1.4779
+\i (00:17:49) trapsize 853
+\i (00:17:50) zoom in 1 
+\i (00:17:50) setwindow pcb
+\i (00:17:50) zoom in -1.6702 -5.1444
+\i (00:17:50) trapsize 426
+\i (00:17:58) zoom out 1 
+\i (00:17:58) setwindow pcb
+\i (00:17:58) zoom out -1.8237 -5.4854
+\i (00:17:58) trapsize 853
+\i (00:17:58) zoom in 1 
+\i (00:17:58) setwindow pcb
+\i (00:17:58) zoom in -1.7555 -6.5939
+\i (00:17:58) trapsize 426
+\i (00:18:00) zoom out 1 
+\i (00:18:00) setwindow pcb
+\i (00:18:00) zoom out -1.7896 -6.1846
+\i (00:18:00) trapsize 853
+\i (00:18:00) zoom out 1 
+\i (00:18:00) setwindow pcb
+\i (00:18:00) zoom out -1.7896 -6.1846
+\i (00:18:00) trapsize 1705
+\i (00:18:01) zoom out 1 
+\i (00:18:01) setwindow pcb
+\i (00:18:01) zoom out -0.7665 -5.5024
+\i (00:18:01) trapsize 3411
+\i (00:18:01) zoom out 1 
+\i (00:18:01) setwindow pcb
+\i (00:18:01) zoom out -0.7665 -5.5024
+\i (00:18:01) trapsize 6821
+\i (00:18:01) zoom in 1 
+\i (00:18:01) setwindow pcb
+\i (00:18:01) zoom in -9.8238 -15.5979
+\i (00:18:01) trapsize 3411
+\i (00:18:02) zoom in 1 
+\i (00:18:02) setwindow pcb
+\i (00:18:02) zoom in -2.3885 -17.5078
+\i (00:18:02) trapsize 1705
+\i (00:18:02) zoom in 1 
+\i (00:18:02) setwindow pcb
+\i (00:18:02) zoom in -0.5467 -13.3126
+\i (00:18:02) trapsize 853
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out -0.1203 -13.9094
+\i (00:18:19) trapsize 1705
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out -1.1436 -13.3638
+\i (00:18:19) trapsize 3411
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out -1.8939 -13.0909
+\i (00:18:19) trapsize 6821
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out -2.4395 -12.9544
+\i (00:18:19) trapsize 13643
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 58.7994 -68.3493
+\i (00:18:19) trapsize 13643
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 58.5266 -68.0764
+\i (00:18:19) trapsize 13643
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 56.6166 -61.8008
+\i (00:18:19) trapsize 13643
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 56.6166 -61.8008
+\i (00:18:19) trapsize 13643
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 56.6166 -61.8008
+\i (00:18:19) trapsize 13643
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 56.6166 -61.8008
+\i (00:18:19) trapsize 13643
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 56.6166 -61.8008
+\i (00:18:19) trapsize 13643
+\i (00:18:19) zoom out 1 
+\i (00:18:19) setwindow pcb
+\i (00:18:19) zoom out 56.6166 -61.8008
+\i (00:18:19) trapsize 13643
+\i (00:18:20) save 
+\i (00:18:21) fillin yes 
+\e (00:18:22) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:18:23) setwindow text
+\i (00:18:23) close
+\i (00:18:23) zoom in 1 
+\i (00:18:23) setwindow pcb
+\i (00:18:23) zoom in -5.0478 -17.0532
+\i (00:18:23) trapsize 6821
+\i (00:18:24) zoom in 1 
+\i (00:18:24) setwindow pcb
+\i (00:18:24) zoom in -18.9632 -12.2783
+\i (00:18:24) trapsize 3411
+\i (00:18:24) zoom out 1 
+\i (00:18:24) setwindow pcb
+\i (00:18:24) zoom out -9.2088 -9.9590
+\i (00:18:24) trapsize 6821
+\i (00:18:24) zoom in 1 
+\i (00:18:24) setwindow pcb
+\i (00:18:24) zoom in 10.0273 0.0001
+\i (00:18:24) trapsize 3411
+\i (00:18:24) zoom in 1 
+\i (00:18:24) setwindow pcb
+\i (00:18:24) zoom in 10.3002 0.0001
+\i (00:18:24) trapsize 1705
+\i (00:18:26) show measure 
+\i (00:18:27) zoom in 1 
+\i (00:18:27) setwindow pcb
+\i (00:18:27) zoom in -0.2045 -14.0858
+\i (00:18:27) trapsize 853
+\i (00:18:27) zoom in 1 
+\i (00:18:27) setwindow pcb
+\i (00:18:27) zoom in 0.0002 -14.1369
+\i (00:18:27) trapsize 426
+\i (00:18:28) pick grid -0.1021 -14.3330
+\t (00:18:28) last pick:  -0.1020 -14.3330
+\i (00:18:29) zoom out 1 
+\i (00:18:29) setwindow pcb
+\i (00:18:29) zoom out 1.0234 -13.3780
+\i (00:18:29) trapsize 853
+\i (00:18:29) zoom out 1 
+\i (00:18:29) setwindow pcb
+\i (00:18:29) zoom out 1.0235 -13.3781
+\i (00:18:29) trapsize 1705
+\i (00:18:30) zoom in 1 
+\i (00:18:30) setwindow pcb
+\i (00:18:30) zoom in 13.5746 1.5606
+\i (00:18:30) trapsize 853
+\i (00:18:30) zoom in 1 
+\i (00:18:30) setwindow pcb
+\i (00:18:30) zoom in 13.5746 1.5606
+\i (00:18:30) trapsize 426
+\i (00:18:31) pick grid 14.2908 -0.0168
+\t (00:18:31) last pick:  14.2910 -0.0170
+\i (00:18:32) zoom out 1 
+\i (00:18:32) setwindow pcb
+\i (00:18:32) zoom out 14.0350 0.1537
+\i (00:18:32) trapsize 853
+\i (00:18:32) zoom out 1 
+\i (00:18:32) setwindow pcb
+\i (00:18:32) zoom out 14.0351 0.3755
+\i (00:18:32) trapsize 1705
+\i (00:18:33) zoom in 1 
+\i (00:18:33) setwindow pcb
+\i (00:18:33) zoom in 8.1688 -7.1280
+\i (00:18:33) trapsize 853
+\i (00:18:34) zoom in 1 
+\i (00:18:34) setwindow pcb
+\i (00:18:34) zoom in 12.6198 -1.7221
+\i (00:18:34) trapsize 426
+\i (00:18:34) zoom in 1 
+\i (00:18:34) setwindow pcb
+\i (00:18:34) zoom in 12.7221 -1.6197
+\i (00:18:34) trapsize 213
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 12.5772 -1.8413
+\i (00:18:35) trapsize 426
+\i (00:18:35) zoom out 1 
+\i (00:18:35) setwindow pcb
+\i (00:18:35) zoom out 12.5773 -1.8414
+\i (00:18:35) trapsize 853
+\i (00:18:36) zoom out 1 
+\i (00:18:36) setwindow pcb
+\i (00:18:36) zoom out 12.5772 -1.8413
+\i (00:18:36) trapsize 1705
+\i (00:18:37) zoom in 1 
+\i (00:18:37) setwindow pcb
+\i (00:18:37) zoom in 2.0042 -12.5168
+\i (00:18:37) trapsize 853
+\i (00:18:37) zoom in 1 
+\i (00:18:37) setwindow pcb
+\i (00:18:37) zoom in 2.0042 -12.4826
+\i (00:18:37) trapsize 426
+\i (00:18:38) zoom in 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom in 1.9872 -12.2865
+\i (00:18:38) trapsize 213
+\i (00:18:38) zoom in 1 
+\i (00:18:38) setwindow pcb
+\i (00:18:38) zoom in 1.9872 -12.2865
+\i (00:18:38) trapsize 107
+\i (00:18:39) zoom out 1 
+\i (00:18:39) setwindow pcb
+\i (00:18:39) zoom out 1.9872 -12.2865
+\i (00:18:39) trapsize 213
+\i (00:18:39) zoom out 1 
+\i (00:18:39) setwindow pcb
+\i (00:18:39) zoom out 1.9872 -12.2865
+\i (00:18:39) trapsize 426
+\i (00:18:39) zoom out 1 
+\i (00:18:39) setwindow pcb
+\i (00:18:39) zoom out 1.9872 -12.2865
+\i (00:18:39) trapsize 853
+\i (00:18:39) zoom out 1 
+\i (00:18:39) setwindow pcb
+\i (00:18:39) zoom out 1.9871 -12.2864
+\i (00:18:39) trapsize 1705
+\i (00:18:41) setwindow text
+\i (00:18:41) close
+\i (00:18:41) prepopup 5.7729 3.9484
+\i (00:18:42) done 
+\i (00:18:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:18:48) move 
+\t (00:18:48) Select element(s) to move.
+\i (00:18:50) setwindow form.find
+\i (00:18:50) FORM find all_off  
+\i (00:18:51) FORM find all_on  
+\i (00:18:53) setwindow pcb
+\i (00:18:53) drag_start grid -6.8807 2.0043
+\i (00:18:54) drag_stop 19.8590 -17.2660
+\i (00:18:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:18:55) move 
+\t (00:18:56) Select element(s) to move.
+\i (00:18:57) drag_start grid -3.1289 1.3563
+\i (00:18:58) drag_stop 19.3474 -17.2660
+\i (00:18:58) pick grid 8.3309 -5.6697
+\t (00:18:58) last pick:  8.3310 -5.6700
+\t (00:18:58) Pick new location for the element(s).
+\i (00:19:11) pick -6.5 6.5 
+\t (00:19:11) last pick:  -6.5000 6.5000
+\i (00:19:13) zoom out 1 
+\i (00:19:13) setwindow pcb
+\i (00:19:13) zoom out -4.1521 -9.2509
+\i (00:19:13) trapsize 3411
+\i (00:19:15) zoom in 1 
+\i (00:19:15) setwindow pcb
+\i (00:19:15) zoom in -11.9967 4.1189
+\i (00:19:15) trapsize 1705
+\i (00:19:17) undo 
+\i (00:19:17) trapsize 1705
+\i (00:19:18) zoom in 1 
+\i (00:19:18) setwindow pcb
+\i (00:19:18) zoom in -0.0252 1.3904
+\i (00:19:18) trapsize 853
+\i (00:19:18) zoom in 1 
+\i (00:19:18) setwindow pcb
+\i (00:19:18) zoom in -0.0252 1.3904
+\i (00:19:18) trapsize 426
+\i (00:19:19) zoom out 1 
+\i (00:19:19) setwindow pcb
+\i (00:19:19) zoom out -1.8584 1.4586
+\i (00:19:19) trapsize 853
+\i (00:19:19) zoom out 1 
+\i (00:19:19) setwindow pcb
+\i (00:19:19) zoom out -2.2508 1.5269
+\i (00:19:19) trapsize 1705
+\i (00:19:19) zoom out 1 
+\i (00:19:19) setwindow pcb
+\i (00:19:19) zoom out -2.2848 1.5270
+\i (00:19:19) trapsize 3411
+\i (00:19:22) move 
+\t (00:19:22) Select element(s) to move.
+\i (00:19:23) drag_start grid -6.3095 3.2323
+\i (00:19:23) drag_stop 34.1411 -30.1241
+\i (00:19:32) ipick -6.5 6.5 
+\t (00:19:32) last pick:  27.6411 -23.6241
+\t (00:19:32) Pick new location for the element(s).
+\i (00:19:35) zoom out 1 
+\i (00:19:35) setwindow pcb
+\i (00:19:35) zoom out 11.3578 -17.5729
+\i (00:19:35) trapsize 6821
+\i (00:19:35) zoom out 1 
+\i (00:19:35) setwindow pcb
+\i (00:19:35) zoom out 9.5489 -19.6192
+\i (00:19:35) trapsize 13643
+\i (00:19:36) zoom in 1 
+\i (00:19:36) setwindow pcb
+\i (00:19:36) zoom in 34.7885 8.0491
+\i (00:19:36) trapsize 6821
+\i (00:19:38) prepopup 14.7339 -12.0054
+\i (00:19:39) cancel 
+\i (00:19:42) move 
+\t (00:19:42) Select element(s) to move.
+\i (00:19:43) drag_start grid -18.9632 16.9168
+\i (00:19:43) drag_stop 44.3383 -40.2455
+\i (00:19:44) pick grid 9.1405 -5.4570
+\t (00:19:44) last pick:  9.1410 -5.4570
+\t (00:19:44) Pick new location for the element(s).
+\i (00:19:54) ipick -6.5 6.5 
+\t (00:19:54) last pick:  2.6410 1.0430
+\i (00:19:56) prepopup 36.1528 15.1433
+\i (00:19:57) done 
+\i (00:19:57) zoom in 1 
+\i (00:19:57) setwindow pcb
+\i (00:19:57) zoom in -21.6917 4.9114
+\i (00:19:57) trapsize 3411
+\i (00:19:58) zoom in 1 
+\i (00:19:58) setwindow pcb
+\i (00:19:58) zoom in 1.7054 -0.0681
+\i (00:19:58) trapsize 1705
+\i (00:19:58) zoom in 1 
+\i (00:19:58) setwindow pcb
+\i (00:19:58) zoom in 1.7736 -0.1363
+\i (00:19:58) trapsize 853
+\i (00:19:58) zoom in 1 
+\i (00:19:58) setwindow pcb
+\i (00:19:58) zoom in 0.4264 -0.1021
+\i (00:19:58) trapsize 426
+\i (00:19:58) zoom in 1 
+\i (00:19:58) setwindow pcb
+\i (00:19:58) zoom in 0.4264 -0.1021
+\i (00:19:58) trapsize 213
+\i (00:19:59) zoom in 1 
+\i (00:19:59) setwindow pcb
+\i (00:19:59) zoom in -0.3580 0.0684
+\i (00:19:59) trapsize 107
+\i (00:19:59) zoom in 1 
+\i (00:19:59) setwindow pcb
+\i (00:19:59) zoom in -0.3580 0.0685
+\i (00:19:59) trapsize 53
+\i (00:20:16) zoom out 1 
+\i (00:20:16) setwindow pcb
+\i (00:20:16) zoom out -0.1001 0.0003
+\i (00:20:16) trapsize 107
+\i (00:20:16) zoom out 1 
+\i (00:20:16) setwindow pcb
+\i (00:20:16) zoom out -0.1022 -0.0040
+\i (00:20:16) trapsize 213
+\i (00:20:19) zoom out 1 
+\i (00:20:19) setwindow pcb
+\i (00:20:19) zoom out 0.8273 1.1087
+\i (00:20:19) trapsize 426
+\i (00:20:19) zoom out 1 
+\i (00:20:19) setwindow pcb
+\i (00:20:19) zoom out 0.2645 0.7250
+\i (00:20:19) trapsize 853
+\i (00:20:19) zoom out 1 
+\i (00:20:19) setwindow pcb
+\i (00:20:19) zoom out -0.8270 0.0428
+\i (00:20:19) trapsize 1705
+\i (00:20:19) zoom out 1 
+\i (00:20:19) setwindow pcb
+\i (00:20:19) zoom out -2.0207 -0.6052
+\i (00:20:19) trapsize 3411
+\i (00:20:19) zoom in 1 
+\i (00:20:19) setwindow pcb
+\i (00:20:19) zoom in 10.1896 1.1684
+\i (00:20:19) trapsize 1705
+\i (00:20:19) zoom in 1 
+\i (00:20:19) setwindow pcb
+\i (00:20:19) zoom in 10.1896 1.1684
+\i (00:20:19) trapsize 853
+\i (00:20:20) zoom out 1 
+\i (00:20:20) setwindow pcb
+\i (00:20:20) zoom out 10.1726 1.1343
+\i (00:20:20) trapsize 1705
+\i (00:20:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:20:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:20:21) color192 
+\i (00:20:26) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:20:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 11 0
+\i (00:20:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:20:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:20:28) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:20:29) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:20:30) zoom in 1 
+\i (00:20:30) setwindow pcb
+\i (00:20:30) zoom in 1.9187 0.3157
+\i (00:20:30) trapsize 853
+\i (00:20:32) show element 
+\i (00:20:34) pick grid -0.0253 -0.0595
+\t (00:20:34) last pick:  -0.0250 -0.0590
+\i (00:20:36) zoom out 1 
+\i (00:20:36) setwindow pcb
+\i (00:20:36) zoom out -7.3583 -4.2375
+\i (00:20:36) trapsize 1705
+\i (00:20:37) zoom in 1 
+\i (00:20:37) setwindow pcb
+\i (00:20:37) zoom in -7.3583 -4.2376
+\i (00:20:37) trapsize 853
+\i (00:20:48) setwindow text
+\i (00:20:48) close
+\i (00:20:49) zoom out 1 
+\i (00:20:49) setwindow pcb
+\i (00:20:49) zoom out -1.6284 -1.8160
+\i (00:20:49) trapsize 1705
+\i (00:20:49) zoom in 1 
+\i (00:20:49) setwindow pcb
+\i (00:20:49) zoom in -1.9694 -2.1229
+\i (00:20:49) trapsize 853
+\i (00:20:52) prepopup 9.5587 1.4754
+\i (00:20:52) done 
+\i (00:20:53) zoom out 1 
+\i (00:20:53) setwindow pcb
+\i (00:20:53) zoom out -5.1925 -3.5383
+\i (00:20:53) trapsize 1705
+\i (00:20:54) zoom in 1 
+\i (00:20:54) setwindow pcb
+\i (00:20:54) zoom in -6.5226 -1.5260
+\i (00:20:54) trapsize 853
+\i (00:20:55) zoom out 1 
+\i (00:20:55) setwindow pcb
+\i (00:20:55) zoom out -6.5226 -1.5259
+\i (00:20:55) trapsize 1705
+\i (00:20:56) zoom in 1 
+\i (00:20:56) setwindow pcb
+\i (00:20:56) zoom in -7.4775 -1.9352
+\i (00:20:56) trapsize 853
+\i (00:20:56) zoom out 1 
+\i (00:20:56) setwindow pcb
+\i (00:20:56) zoom out -7.2728 -1.7135
+\i (00:20:56) trapsize 1705
+\i (00:20:57) zoom in 1 
+\i (00:20:57) setwindow pcb
+\i (00:20:57) zoom in -8.2960 -4.0668
+\i (00:20:57) trapsize 853
+\i (00:21:00) show measure 
+\i (00:21:11) zoom out 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom out -0.6390 -1.3212
+\i (00:21:11) trapsize 1705
+\i (00:21:11) zoom out 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom out -0.6391 -1.3211
+\i (00:21:11) trapsize 3411
+\i (00:21:11) zoom out 1 
+\i (00:21:11) setwindow pcb
+\i (00:21:11) zoom out -0.6391 -1.3212
+\i (00:21:11) trapsize 6821
+\i (00:21:28) save 
+\i (00:21:28) fillin yes 
+\e (00:21:30) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:21:30) move 
+\t (00:21:30) Select element(s) to move.
+\i (00:21:31) setwindow text
+\i (00:21:31) close
+\i (00:21:33) move 
+\t (00:21:33) Select element(s) to move.
+\i (00:21:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:21:33) drag_start grid -19.7388 21.1894
+\i (00:21:34) drag_stop 32.3763 -20.2845
+\i (00:21:35) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:21:36) pick grid -2.0033 -0.9118
+\t (00:21:36) last pick:  -2.0030 -0.9120
+\t (00:21:36) Pick new location for the element(s).
+\i (00:21:51) ipick -0.65 0.65 
+\t (00:21:51) last pick:  -2.6530 -0.2620
+\i (00:21:52) prepopup -27.3788 10.1388
+\i (00:21:54) prepopup -18.3746 8.6381
+\i (00:21:54) done 
+\i (00:21:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:21:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:21:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:21:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:21:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:21:55) zoom in 1 
+\i (00:21:55) setwindow pcb
+\i (00:21:55) zoom in 4.2723 -0.7754
+\i (00:21:55) trapsize 3411
+\i (00:21:55) zoom in 1 
+\i (00:21:55) setwindow pcb
+\i (00:21:55) zoom in 4.3405 -0.7754
+\i (00:21:55) trapsize 1705
+\i (00:21:57) show measure 
+\i (00:21:59) pick grid -7.1534 7.1033
+\t (00:21:59) last pick:  -7.1530 7.1030
+\i (00:22:00) pick grid 7.2055 -7.1193
+\t (00:22:00) last pick:  7.2060 -7.1190
+\i (00:22:07) setwindow text
+\i (00:22:07) close
+\i (00:22:07) prepopup 14.6408 4.7499
+\i (00:22:08) done 
+\i (00:22:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:22:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:22:09) zoom in 1 
+\i (00:22:09) setwindow pcb
+\i (00:22:09) zoom in 1.8849 -1.0142
+\i (00:22:09) trapsize 853
+\i (00:22:09) zoom in 1 
+\i (00:22:09) setwindow pcb
+\i (00:22:09) zoom in 1.8849 -1.0141
+\i (00:22:09) trapsize 426
+\i (00:22:10) zoom out 1 
+\i (00:22:10) setwindow pcb
+\i (00:22:10) zoom out 1.7911 -0.9544
+\i (00:22:10) trapsize 853
+\i (00:22:11) show element 
+\i (00:22:20) prepopup 11.7331 2.2686
+\i (00:22:21) done 
+\i (00:22:21) zoom out 1 
+\i (00:22:21) setwindow pcb
+\i (00:22:21) zoom out 3.5645 -4.5698
+\i (00:22:21) trapsize 1705
+\i (00:22:22) zoom out 1 
+\i (00:22:22) setwindow pcb
+\i (00:22:22) zoom out 3.5305 -4.6379
+\i (00:22:22) trapsize 3411
+\i (00:22:22) zoom in 1 
+\i (00:22:22) setwindow pcb
+\i (00:22:22) zoom in -2.2677 -1.4320
+\i (00:22:22) trapsize 1705
+\i (00:22:22) zoom in 1 
+\i (00:22:22) setwindow pcb
+\i (00:22:22) zoom in -2.1313 -1.4319
+\i (00:22:22) trapsize 853
+\i (00:23:20) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:23:20) zoom out 1 
+\i (00:23:20) setwindow pcb
+\i (00:23:20) zoom out -10.8284 1.4160
+\i (00:23:20) trapsize 1705
+\i (00:23:20) zoom out 1 
+\i (00:23:20) setwindow pcb
+\i (00:23:20) zoom out -10.3169 0.5293
+\i (00:23:20) trapsize 3411
+\i (00:23:21) zoom in 1 
+\i (00:23:21) setwindow pcb
+\i (00:23:21) zoom in -2.1995 5.6453
+\i (00:23:21) trapsize 1705
+\i (00:23:21) zoom in 1 
+\i (00:23:21) setwindow pcb
+\i (00:23:21) zoom in -2.1995 5.6794
+\i (00:23:21) trapsize 853
+\i (00:23:21) zoom out 1 
+\i (00:23:21) setwindow pcb
+\i (00:23:21) zoom out -2.2848 5.7306
+\i (00:23:21) trapsize 1705
+\i (00:23:22) zoom in 1 
+\i (00:23:22) setwindow pcb
+\i (00:23:22) zoom in -6.4116 6.6514
+\i (00:23:22) trapsize 853
+\i (00:23:22) zoom in 1 
+\i (00:23:22) setwindow pcb
+\i (00:23:22) zoom in -6.4116 6.6514
+\i (00:23:22) trapsize 426
+\i (00:23:29) zoom out 1 
+\i (00:23:29) setwindow pcb
+\i (00:23:29) zoom out -4.6892 5.9437
+\i (00:23:29) trapsize 853
+\i (00:23:29) zoom in 1 
+\i (00:23:29) setwindow pcb
+\i (00:23:29) zoom in -6.1900 7.2909
+\i (00:23:29) trapsize 426
+\i (00:23:29) zoom in 1 
+\i (00:23:29) setwindow pcb
+\i (00:23:29) zoom in -6.1900 7.2909
+\i (00:23:29) trapsize 213
+\i (00:23:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:23:31) delete 
+\i (00:23:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:23:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:23:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:23:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:23:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:23:45) zoom out 1 
+\i (00:23:45) setwindow pcb
+\i (00:23:45) zoom out -6.4543 6.6045
+\i (00:23:45) trapsize 426
+\i (00:23:50) pick grid -6.0791 7.0906
+\t (00:23:50) last pick:  -6.0790 7.0910
+\t (00:23:50) Pin "Smd0r3cir, A3"
+\i (00:23:55) pick grid -3.9389 7.1247
+\t (00:23:55) last pick:  -3.9390 7.1250
+\t (00:23:55) Pin "Smd0r3cir, A6"
+\i (00:24:02) pick grid -2.0374 7.1503
+\t (00:24:02) last pick:  -2.0370 7.1500
+\t (00:24:02) Pin "Smd0r3cir, A9"
+\i (00:24:05) pick grid -1.4320 7.0480
+\t (00:24:05) last pick:  -1.4320 7.0480
+\t (00:24:05) Pin "Smd0r3cir, A10"
+\i (00:24:05) zoom out 1 
+\i (00:24:05) setwindow pcb
+\i (00:24:05) zoom out -2.7537 6.5875
+\i (00:24:05) trapsize 853
+\i (00:24:06) zoom in 1 
+\i (00:24:06) setwindow pcb
+\i (00:24:06) zoom in 0.4865 6.6899
+\i (00:24:06) trapsize 426
+\i (00:24:09) pick grid 0.0346 7.1418
+\t (00:24:09) last pick:  0.0350 7.1420
+\t (00:24:09) Pin "Smd0r3cir, A12"
+\i (00:24:10) zoom out 1 
+\i (00:24:10) setwindow pcb
+\i (00:24:10) zoom out -2.3358 6.5364
+\i (00:24:10) trapsize 853
+\i (00:24:10) zoom in 1 
+\i (00:24:10) setwindow pcb
+\i (00:24:10) zoom in 1.6716 6.8264
+\i (00:24:10) trapsize 426
+\i (00:24:18) pick grid 1.7995 7.1333
+\t (00:24:18) last pick:  1.8000 7.1330
+\t (00:24:18) Pin "Smd0r3cir, A15"
+\i (00:24:20) zoom out 1 
+\i (00:24:20) setwindow pcb
+\i (00:24:20) zoom out 0.8531 7.0907
+\i (00:24:20) trapsize 853
+\i (00:24:21) zoom in 1 
+\i (00:24:21) setwindow pcb
+\i (00:24:21) zoom in 5.0822 7.1078
+\i (00:24:21) trapsize 426
+\i (00:24:28) pick grid 3.8629 7.0396
+\t (00:24:28) last pick:  3.8630 7.0400
+\t (00:24:28) Pin "Smd0r3cir, A18"
+\i (00:24:35) pick grid 5.7302 7.1675
+\t (00:24:35) last pick:  5.7300 7.1680
+\t (00:24:35) Pin "Smd0r3cir, A21"
+\i (00:24:36) prepopup 5.7046 8.3953
+\i (00:24:36) done 
+\i (00:24:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:24:37) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:24:37) zoom out 1 
+\i (00:24:37) setwindow pcb
+\i (00:24:37) zoom out 2.6777 6.4427
+\i (00:24:37) trapsize 853
+\i (00:24:37) zoom out 1 
+\i (00:24:37) setwindow pcb
+\i (00:24:37) zoom out 2.6946 6.5281
+\i (00:24:37) trapsize 1705
+\i (00:24:37) zoom out 1 
+\i (00:24:37) setwindow pcb
+\i (00:24:37) zoom out 2.8652 6.9373
+\i (00:24:37) trapsize 3411
+\i (00:24:38) zoom in 1 
+\i (00:24:38) setwindow pcb
+\i (00:24:38) zoom in -4.0243 4.0042
+\i (00:24:38) trapsize 1705
+\i (00:24:38) zoom in 1 
+\i (00:24:38) setwindow pcb
+\i (00:24:38) zoom in -4.0243 4.0043
+\i (00:24:38) trapsize 853
+\i (00:25:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:25:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:25:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:25:34) save 
+\i (00:25:34) fillin yes 
+\e (00:25:35) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:25:39) setwindow text
+\i (00:25:39) close
+\i (00:25:41) add rect 
+\i (00:25:44) zoom out 1 
+\i (00:25:44) setwindow pcb
+\i (00:25:44) zoom out -1.1081 6.5623
+\i (00:25:44) trapsize 1705
+\i (00:25:44) zoom out 1 
+\i (00:25:44) setwindow pcb
+\i (00:25:44) zoom out -1.1082 6.5624
+\i (00:25:44) trapsize 3411
+\i (00:25:45) zoom in 1 
+\i (00:25:45) setwindow pcb
+\i (00:25:45) zoom in 10.6927 3.7656
+\i (00:25:45) trapsize 1705
+\i (00:25:48) setwindow form.mini
+\i (00:25:48) FORM mini class PACKAGE GEOMETRY 
+\i (00:25:51) FORM mini subclass SILKSCREEN_TOP 
+\i (00:26:09) setwindow pcb
+\i (00:26:09) pick -7.5 7.5 
+\t (00:26:09) last pick:  -7.5000 7.5000
+\i (00:26:14) pick 7.5 -7.5 
+\t (00:26:14) last pick:  7.5000 -7.5000
+\i (00:26:16) prepopup 8.2030 9.7684
+\i (00:26:17) done 
+\i (00:26:18) zoom out 1 
+\i (00:26:18) setwindow pcb
+\i (00:26:18) zoom out 4.8946 2.9811
+\i (00:26:18) trapsize 3411
+\i (00:26:18) zoom in 1 
+\i (00:26:18) setwindow pcb
+\i (00:26:18) zoom in -0.0167 -2.2031
+\i (00:26:18) trapsize 1705
+\i (00:26:19) zoom in 1 
+\i (00:26:19) setwindow pcb
+\i (00:26:19) zoom in -3.3932 4.5842
+\i (00:26:19) trapsize 853
+\i (00:26:20) save 
+\i (00:26:21) fillin yes 
+\e (00:26:22) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:26:24) setwindow text
+\i (00:26:24) close
+\i (00:27:11) delete 
+\e (00:27:19) Command not found: c1
+\e (00:27:26) Command not found: delect c1
+\e (00:27:37) Command not found: PINC1
+\i (00:27:38) roam y -96 
+\i (00:27:38) roam y -96
+\i (00:28:28) zoom in 1 
+\i (00:28:28) setwindow pcb
+\i (00:28:28) zoom in -7.2473 5.7309
+\i (00:28:28) trapsize 426
+\i (00:28:28) zoom in 1 
+\i (00:28:28) setwindow pcb
+\i (00:28:28) zoom in -7.2473 5.7309
+\i (00:28:28) trapsize 213
+\e (00:28:41) Command not found: delect
+\i (00:28:47) prepopup -7.8271 6.5026
+\i (00:28:48) done 
+\i (00:28:49) zoom out 1 
+\i (00:28:49) setwindow pcb
+\i (00:28:49) zoom out -6.7954 5.3984
+\i (00:28:49) trapsize 426
+\i (00:28:49) zoom out 1 
+\i (00:28:49) setwindow pcb
+\i (00:28:49) zoom out -6.9318 5.3046
+\i (00:28:49) trapsize 853
+\i (00:28:49) zoom in 1 
+\i (00:28:49) setwindow pcb
+\i (00:28:49) zoom in -6.8807 5.7310
+\i (00:28:49) trapsize 426
+\i (00:28:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:28:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:28:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:28:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:28:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:28:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:28:53) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:28:56) help 
+\e (00:29:17) Command not found: ?
+\i (00:29:19) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:29:19) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:29:20) delete 
+\i (00:29:25) pick grid -7.0598 5.8162
+\t (00:29:25) last pick:  -7.0600 5.8160
+\t (00:29:25) Pin "Smd0r3cir, C1"
+\i (00:29:30) prepopup -8.4070 6.1999
+\i (00:29:30) done 
+\e (00:29:41) Command not found: Pin Smd0r3cir, C1
+\i (00:29:43) roam y -96 
+\i (00:29:43) roam y -96
+\i (00:29:47) delete 
+\e (00:30:12) Command not found: Pin Smd0r3cir, C23
+\i (00:30:16) pick grid -8.6202 6.0630
+\t (00:30:16) last pick:  -8.6200 6.0630
+\i (00:30:16) zoom out 1 
+\i (00:30:16) setwindow pcb
+\i (00:30:16) zoom out -8.6543 5.9521
+\i (00:30:16) trapsize 853
+\i (00:30:16) zoom out 1 
+\i (00:30:16) setwindow pcb
+\i (00:30:16) zoom out -8.6543 5.8669
+\i (00:30:16) trapsize 1705
+\i (00:30:17) zoom in 1 
+\i (00:30:17) setwindow pcb
+\i (00:30:17) zoom in 5.4318 4.4344
+\i (00:30:17) trapsize 853
+\i (00:30:18) zoom in 1 
+\i (00:30:18) setwindow pcb
+\i (00:30:18) zoom in 7.0348 5.6964
+\i (00:30:18) trapsize 426
+\i (00:30:18) zoom in 1 
+\i (00:30:18) setwindow pcb
+\i (00:30:18) zoom in 7.0690 5.6964
+\i (00:30:18) trapsize 213
+\i (00:30:21) pick grid 7.0434 5.9309
+\t (00:30:21) last pick:  7.0430 5.9310
+\t (00:30:21) Pin "Smd0r3cir, C23"
+\i (00:30:27) pick grid 5.8838 5.9096
+\t (00:30:27) last pick:  5.8840 5.9100
+\t (00:30:27) Pin "Smd0r3cir, C21"
+\i (00:30:31) zoom out 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom out 7.8023 5.3767
+\i (00:30:31) trapsize 426
+\i (00:30:31) zoom out 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom out 7.8363 5.3853
+\i (00:30:31) trapsize 853
+\i (00:30:31) zoom in 1 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) zoom in 3.0444 4.9930
+\i (00:30:31) trapsize 426
+\i (00:30:44) pick grid 1.9700 5.8201
+\t (00:30:44) last pick:  1.9700 5.8200
+\t (00:30:44) Pin "Smd0r3cir, C15"
+\i (00:30:45) prepopup 7.9983 6.6813
+\i (00:30:45) done 
+\i (00:30:46) zoom out 1 
+\i (00:30:46) setwindow pcb
+\i (00:30:46) zoom out 5.3721 5.1892
+\i (00:30:46) trapsize 853
+\i (00:30:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:30:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:30:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:30:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:30:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:30:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:30:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:30:50) save 
+\i (00:30:50) fillin yes 
+\e (00:30:51) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:30:52) setwindow text
+\i (00:30:52) close
+\i (00:30:53) zoom in 1 
+\i (00:30:53) setwindow pcb
+\i (00:30:53) zoom in -7.1962 5.5131
+\i (00:30:53) trapsize 426
+\i (00:30:56) zoom out 1 
+\i (00:30:56) setwindow pcb
+\i (00:30:56) zoom out -6.0195 6.2038
+\i (00:30:56) trapsize 853
+\i (00:31:00) show element 
+\i (00:31:13) prepopup 5.8495 11.6780
+\i (00:31:13) done 
+\i (00:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:31:54) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:31:55) delete 
+\i (00:32:01) pick grid -5.1670 5.1977
+\t (00:32:01) last pick:  -5.1670 5.1980
+\t (00:32:01) Pin "Smd0r3cir, D4"
+\i (00:32:05) pick grid -3.9562 5.2148
+\t (00:32:05) last pick:  -3.9560 5.2150
+\t (00:32:05) Pin "Smd0r3cir, D6"
+\i (00:32:11) pick grid -2.0633 5.1124
+\t (00:32:11) last pick:  -2.0630 5.1120
+\t (00:32:11) Pin "Smd0r3cir, D9"
+\i (00:32:17) pick grid 0.0684 5.2148
+\t (00:32:17) last pick:  0.0680 5.2150
+\t (00:32:17) Pin "Smd0r3cir, D12"
+\i (00:32:21) pick grid 2.0295 5.2148
+\t (00:32:21) last pick:  2.0300 5.2150
+\t (00:32:21) Pin "Smd0r3cir, D15"
+\i (00:32:28) pick grid 3.8884 5.2659
+\t (00:32:28) last pick:  3.8880 5.2660
+\t (00:32:28) Pin "Smd0r3cir, D18"
+\i (00:32:31) prepopup 9.2090 7.2782
+\i (00:32:32) done 
+\i (00:32:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:33:12) delete 
+\i (00:33:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:33:13) zoom in 1 
+\i (00:33:13) setwindow pcb
+\i (00:33:13) zoom in 1.2963 7.0565
+\i (00:33:13) trapsize 426
+\i (00:33:13) zoom out 1 
+\i (00:33:13) setwindow pcb
+\i (00:33:13) zoom out 0.2049 6.1613
+\i (00:33:13) trapsize 853
+\i (00:33:20) pick grid -3.8198 4.6094
+\t (00:33:20) last pick:  -3.8200 4.6090
+\t (00:33:20) Pin "Smd0r3cir, E6"
+\i (00:33:23) pick grid -2.1315 4.5582
+\t (00:33:23) last pick:  -2.1310 4.5580
+\t (00:33:23) Pin "Smd0r3cir, E9"
+\i (00:33:28) pick grid 0.1878 4.6435
+\t (00:33:28) last pick:  0.1880 4.6440
+\t (00:33:28) Pin "Smd0r3cir, E12"
+\i (00:33:31) pick grid 1.9784 4.5753
+\t (00:33:31) last pick:  1.9780 4.5750
+\t (00:33:31) Pin "Smd0r3cir, E15"
+\i (00:33:35) pick grid 3.7349 4.5923
+\t (00:33:35) last pick:  3.7350 4.5920
+\t (00:33:35) Pin "Smd0r3cir, E18"
+\i (00:33:36) prepopup 10.0105 6.4000
+\i (00:33:36) done 
+\i (00:33:38) zoom out 1 
+\i (00:33:38) setwindow pcb
+\i (00:33:38) zoom out 4.7751 6.7581
+\i (00:33:38) trapsize 1705
+\i (00:33:39) zoom in 1 
+\i (00:33:39) setwindow pcb
+\i (00:33:39) zoom in 1.7738 3.1769
+\i (00:33:39) trapsize 853
+\i (00:33:41) save 
+\i (00:33:42) fillin yes 
+\e (00:33:43) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:33:45) setwindow text
+\i (00:33:45) close
+\i (00:33:59) delete 
+\i (00:34:04) pick grid -7.3156 3.9102
+\t (00:34:04) last pick:  -7.3160 3.9100
+\t (00:34:04) Pin "Smd0r3cir, F1"
+\i (00:34:14) pick grid -5.3545 3.9613
+\t (00:34:14) last pick:  -5.3540 3.9610
+\t (00:34:14) Pin "Smd0r3cir, F4"
+\i (00:34:15) pick grid -4.6894 3.9613
+\t (00:34:15) last pick:  -4.6890 3.9610
+\t (00:34:15) Pin "Smd0r3cir, F5"
+\i (00:34:16) pick grid -4.0414 3.8931
+\t (00:34:16) last pick:  -4.0410 3.8930
+\t (00:34:16) Pin "Smd0r3cir, F6"
+\i (00:34:21) pick grid -2.7453 3.9443
+\t (00:34:21) last pick:  -2.7450 3.9440
+\t (00:34:21) Pin "Smd0r3cir, F8"
+\i (00:34:34) pick grid -1.9779 3.8931
+\t (00:34:34) last pick:  -1.9780 3.8930
+\t (00:34:34) Pin "Smd0r3cir, F9"
+\i (00:34:35) pick grid -1.4322 3.8249
+\t (00:34:35) last pick:  -1.4320 3.8250
+\t (00:34:35) Pin "Smd0r3cir, F10"
+\i (00:34:40) pick grid -0.7160 3.9272
+\t (00:34:40) last pick:  -0.7160 3.9270
+\t (00:34:40) Pin "Smd0r3cir, F11"
+\i (00:34:46) pick grid 0.6483 3.9272
+\t (00:34:46) last pick:  0.6480 3.9270
+\t (00:34:46) Pin "Smd0r3cir, F13"
+\i (00:34:48) pick grid 1.3645 3.8590
+\t (00:34:48) last pick:  1.3650 3.8590
+\t (00:34:48) Pin "Smd0r3cir, F14"
+\i (00:34:50) pick grid 1.8250 3.9784
+\t (00:34:50) last pick:  1.8250 3.9780
+\t (00:34:50) Pin "Smd0r3cir, F15"
+\i (00:34:56) pick grid 3.6838 3.9102
+\t (00:34:56) last pick:  3.6840 3.9100
+\t (00:34:56) Pin "Smd0r3cir, F18"
+\i (00:34:57) pick grid 4.5876 3.8761
+\t (00:34:57) last pick:  4.5880 3.8760
+\t (00:34:57) Pin "Smd0r3cir, F19"
+\i (00:34:57) pick grid 5.0310 3.8761
+\t (00:34:57) last pick:  5.0310 3.8760
+\t (00:34:57) Pin "Smd0r3cir, F20"
+\i (00:35:02) pick grid 7.2650 3.9102
+\t (00:35:02) last pick:  7.2650 3.9100
+\t (00:35:02) Pin "Smd0r3cir, F23"
+\i (00:35:03) prepopup 10.0788 5.3086
+\i (00:35:03) done 
+\i (00:35:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:35:06) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:35:09) zoom out 1 
+\i (00:35:09) setwindow pcb
+\i (00:35:09) zoom out 1.4157 6.2294
+\i (00:35:09) trapsize 1705
+\i (00:35:10) zoom in 1 
+\i (00:35:10) setwindow pcb
+\i (00:35:10) zoom in -1.6198 2.6824
+\i (00:35:10) trapsize 853
+\i (00:35:14) save 
+\i (00:35:14) fillin yes 
+\e (00:35:15) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:35:18) setwindow text
+\i (00:35:18) close
+\i (00:35:47) delete 
+\i (00:35:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:35:53) pick grid -1.1764 3.2111
+\t (00:35:53) last pick:  -1.1760 3.2110
+\t (00:35:53) Pin "Smd0r3cir, G10"
+\i (00:35:59) pick grid 0.1879 3.2281
+\t (00:35:59) last pick:  0.1880 3.2280
+\t (00:35:59) Pin "Smd0r3cir, G12"
+\i (00:36:04) pick grid 1.8080 3.2111
+\t (00:36:04) last pick:  1.8080 3.2110
+\t (00:36:04) Pin "Smd0r3cir, G15"
+\i (00:36:07) pick grid 3.1040 3.1258
+\t (00:36:07) last pick:  3.1040 3.1260
+\t (00:36:07) Pin "Smd0r3cir, G17"
+\i (00:36:08) prepopup 8.8851 5.4962
+\i (00:36:09) done 
+\i (00:36:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:10) zoom out 1 
+\i (00:36:10) setwindow pcb
+\i (00:36:10) zoom out -4.5870 5.3768
+\i (00:36:10) trapsize 1705
+\i (00:36:11) zoom in 1 
+\i (00:36:11) setwindow pcb
+\i (00:36:11) zoom in -5.1669 1.6251
+\i (00:36:11) trapsize 853
+\i (00:36:11) save 
+\i (00:36:12) fillin yes 
+\e (00:36:13) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:36:15) setwindow text
+\i (00:36:15) close
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:16) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:36:44) delete 
+\i (00:36:59) pick grid -3.2739 2.6313
+\t (00:36:59) last pick:  -3.2740 2.6310
+\t (00:36:59) Pin "Smd0r3cir, H7"
+\i (00:37:04) pick grid -2.6088 2.5801
+\t (00:37:04) last pick:  -2.6090 2.5800
+\t (00:37:04) Pin "Smd0r3cir, H8"
+\i (00:37:05) pick grid -2.0631 2.4778
+\t (00:37:05) last pick:  -2.0630 2.4780
+\t (00:37:05) Pin "Smd0r3cir, H9"
+\i (00:37:06) pick grid -1.4322 2.5290
+\t (00:37:06) last pick:  -1.4320 2.5290
+\t (00:37:06) Pin "Smd0r3cir, H10"
+\i (00:37:10) pick grid -0.8012 2.5972
+\t (00:37:10) last pick:  -0.8010 2.5970
+\t (00:37:10) Pin "Smd0r3cir, H11"
+\i (00:37:12) pick grid -0.1361 2.5801
+\t (00:37:12) last pick:  -0.1360 2.5800
+\t (00:37:12) Pin "Smd0r3cir, H12"
+\i (00:37:21) pick grid 3.3087 2.5801
+\t (00:37:21) last pick:  3.3090 2.5800
+\t (00:37:21) Pin "Smd0r3cir, H17"
+\i (00:37:23) pick grid 4.0931 2.4608
+\t (00:37:23) last pick:  4.0930 2.4610
+\t (00:37:23) Pin "Smd0r3cir, H18"
+\i (00:37:33) pick grid 5.8496 2.5460
+\t (00:37:33) last pick:  5.8500 2.5460
+\t (00:37:33) Pin "Smd0r3cir, H21"
+\i (00:37:34) prepopup 8.8851 3.3305
+\i (00:37:35) done 
+\i (00:37:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:37:36) zoom out 1 
+\i (00:37:36) setwindow pcb
+\i (00:37:36) zoom out -9.8736 3.9785
+\i (00:37:36) trapsize 1705
+\i (00:37:37) zoom in 1 
+\i (00:37:37) setwindow pcb
+\i (00:37:37) zoom in -7.2473 0.7725
+\i (00:37:37) trapsize 853
+\i (00:37:38) save 
+\i (00:37:39) fillin yes 
+\e (00:37:40) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:37:42) setwindow text
+\i (00:37:42) close
+\i (00:38:31) delete 
+\i (00:38:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:38:31) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:38:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:38:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:38:32) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:38:36) pick grid -7.1449 1.7275
+\t (00:38:36) last pick:  -7.1450 1.7280
+\t (00:38:36) Pin "Smd0r3cir, J1"
+\i (00:38:41) pick grid -5.2009 1.8128
+\t (00:38:41) last pick:  -5.2010 1.8130
+\t (00:38:41) Pin "Smd0r3cir, J4"
+\i (00:38:43) pick grid -4.5528 2.0003
+\t (00:38:43) last pick:  -4.5530 2.0000
+\t (00:38:43) Pin "Smd0r3cir, J5"
+\i (00:38:45) pick grid -4.0071 1.9151
+\t (00:38:45) last pick:  -4.0070 1.9150
+\t (00:38:45) Pin "Smd0r3cir, J6"
+\i (00:38:46) pick grid -3.2738 1.8469
+\t (00:38:46) last pick:  -3.2740 1.8470
+\t (00:38:46) Pin "Smd0r3cir, J7"
+\i (00:39:00) pick grid 3.3258 2.0003
+\t (00:39:00) last pick:  3.3260 2.0000
+\t (00:39:00) Pin "Smd0r3cir, J17"
+\i (00:39:01) pick grid 3.7863 1.9321
+\t (00:39:01) last pick:  3.7860 1.9320
+\t (00:39:01) Pin "Smd0r3cir, J18"
+\i (00:39:03) pick grid 4.5025 1.9492
+\t (00:39:03) last pick:  4.5030 1.9490
+\t (00:39:03) Pin "Smd0r3cir, J19"
+\i (00:39:04) pick grid 5.3381 1.8128
+\t (00:39:04) last pick:  5.3380 1.8130
+\t (00:39:04) Pin "Smd0r3cir, J20"
+\i (00:39:06) pick grid 6.5489 1.8810
+\t (00:39:06) last pick:  6.5490 1.8810
+\t (00:39:06) Pin "Smd0r3cir, J22"
+\i (00:39:07) pick grid 7.0435 1.8298
+\t (00:39:07) last pick:  7.0440 1.8300
+\t (00:39:07) Pin "Smd0r3cir, J23"
+\i (00:39:08) prepopup 8.8341 2.9724
+\i (00:39:08) done 
+\i (00:39:11) save 
+\i (00:39:11) fillin yes 
+\e (00:39:13) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:39:15) setwindow text
+\i (00:39:15) close
+\i (00:39:40) delete 
+\i (00:39:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:39:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:39:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:39:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:39:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:39:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:39:53) pick grid 2.0468 1.3353
+\t (00:39:53) last pick:  2.0470 1.3350
+\t (00:39:53) Pin "Smd0r3cir, K15"
+\i (00:40:00) pick grid 3.1723 1.3182
+\t (00:40:00) last pick:  3.1720 1.3180
+\t (00:40:00) Pin "Smd0r3cir, K17"
+\i (00:40:05) pick grid 5.9862 1.2671
+\t (00:40:05) last pick:  5.9860 1.2670
+\t (00:40:05) Pin "Smd0r3cir, K21"
+\i (00:40:05) prepopup 8.7829 2.2391
+\i (00:40:06) done 
+\i (00:40:08) save 
+\i (00:40:09) fillin yes 
+\e (00:40:10) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:40:11) setwindow text
+\i (00:40:11) close
+\i (00:40:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:15) delete 
+\i (00:40:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:39) delete 
+\i (00:40:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:40:48) pick grid 3.1382 0.6020
+\t (00:40:48) last pick:  3.1380 0.6020
+\t (00:40:48) Pin "Smd0r3cir, L17"
+\i (00:40:49) pick grid 3.6669 0.5679
+\t (00:40:49) last pick:  3.6670 0.5680
+\t (00:40:49) Pin "Smd0r3cir, L18"
+\i (00:40:51) pick grid 5.7645 0.5338
+\t (00:40:51) last pick:  5.7650 0.5340
+\t (00:40:51) Pin "Smd0r3cir, L21"
+\i (00:40:52) prepopup 9.2604 1.6593
+\i (00:40:53) done 
+\i (00:41:39) delete 
+\i (00:41:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:41:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:41:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:41:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:41:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:41:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:41:43) pick grid -6.9915 -0.0119
+\t (00:41:43) last pick:  -6.9910 -0.0120
+\t (00:41:43) Pin "Smd0r3cir, M1"
+\i (00:41:54) pick grid -4.6381 0.1074
+\t (00:41:54) last pick:  -4.6380 0.1070
+\t (00:41:54) Pin "Smd0r3cir, M5"
+\i (00:41:55) pick grid -3.8195 -0.0119
+\t (00:41:55) last pick:  -3.8190 -0.0120
+\t (00:41:55) Pin "Smd0r3cir, M6"
+\i (00:41:56) pick grid -3.1715 -0.1654
+\t (00:41:56) last pick:  -3.1710 -0.1650
+\t (00:41:56) Pin "Smd0r3cir, M7"
+\i (00:42:10) pick grid 3.2065 0.0222
+\t (00:42:10) last pick:  3.2070 0.0220
+\t (00:42:10) Pin "Smd0r3cir, M17"
+\i (00:42:12) pick grid 3.9568 0.0051
+\t (00:42:12) last pick:  3.9570 0.0050
+\t (00:42:12) Pin "Smd0r3cir, M18"
+\i (00:42:17) pick grid 4.7242 -0.0290
+\t (00:42:17) last pick:  4.7240 -0.0290
+\t (00:42:17) Pin "Smd0r3cir, M19"
+\i (00:42:18) pick grid 5.1505 -0.1484
+\t (00:42:18) last pick:  5.1510 -0.1480
+\t (00:42:18) Pin "Smd0r3cir, M20"
+\i (00:42:21) pick grid 7.0946 -0.0461
+\t (00:42:21) last pick:  7.0950 -0.0460
+\t (00:42:21) Pin "Smd0r3cir, M23"
+\i (00:42:22) prepopup 8.9023 0.8066
+\i (00:42:22) done 
+\i (00:42:24) zoom out 1 
+\i (00:42:24) setwindow pcb
+\i (00:42:24) zoom out -6.6845 -0.0461
+\i (00:42:24) trapsize 1705
+\i (00:42:24) zoom in 1 
+\i (00:42:24) setwindow pcb
+\i (00:42:24) zoom in -6.4458 -1.3080
+\i (00:42:24) trapsize 853
+\i (00:42:26) save 
+\i (00:42:27) fillin yes 
+\e (00:42:28) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:42:29) setwindow text
+\i (00:42:29) close
+\i (00:43:10) zoom out 1 
+\i (00:43:10) setwindow pcb
+\i (00:43:10) zoom out 6.6172 0.4656
+\i (00:43:10) trapsize 1705
+\i (00:43:10) zoom out 1 
+\i (00:43:10) setwindow pcb
+\i (00:43:10) zoom out 6.4466 0.2951
+\i (00:43:10) trapsize 3411
+\i (00:43:10) zoom in 1 
+\i (00:43:10) setwindow pcb
+\i (00:43:10) zoom in -1.3298 0.9773
+\i (00:43:10) trapsize 1705
+\i (00:43:10) zoom in 1 
+\i (00:43:10) setwindow pcb
+\i (00:43:10) zoom in -1.2957 0.9773
+\i (00:43:10) trapsize 853
+\i (00:43:11) zoom out 1 
+\i (00:43:11) setwindow pcb
+\i (00:43:11) zoom out -6.4969 0.0735
+\i (00:43:11) trapsize 1705
+\i (00:43:11) zoom in 1 
+\i (00:43:11) setwindow pcb
+\i (00:43:11) zoom in -0.8352 0.9261
+\i (00:43:11) trapsize 853
+\i (00:43:12) zoom out 1 
+\i (00:43:12) setwindow pcb
+\i (00:43:12) zoom out -1.3809 0.9773
+\i (00:43:12) trapsize 1705
+\i (00:43:21) zoom in 1 
+\i (00:43:21) setwindow pcb
+\i (00:43:21) zoom in -3.7342 1.2842
+\i (00:43:21) trapsize 853
+\i (00:43:21) zoom in 1 
+\i (00:43:21) setwindow pcb
+\i (00:43:21) zoom in -3.7341 1.2842
+\i (00:43:21) trapsize 426
+\i (00:43:21) zoom in 1 
+\i (00:43:21) setwindow pcb
+\i (00:43:21) zoom in -3.7341 1.2843
+\i (00:43:21) trapsize 213
+\i (00:43:21) zoom in 1 
+\i (00:43:21) setwindow pcb
+\i (00:43:21) zoom in -3.7340 1.2843
+\i (00:43:21) trapsize 107
+\i (00:43:22) zoom out 1 
+\i (00:43:22) setwindow pcb
+\i (00:43:22) zoom out -4.0132 1.1713
+\i (00:43:22) trapsize 213
+\i (00:43:22) zoom out 1 
+\i (00:43:22) setwindow pcb
+\i (00:43:22) zoom out -4.0132 1.1628
+\i (00:43:22) trapsize 426
+\i (00:43:22) zoom out 1 
+\i (00:43:22) setwindow pcb
+\i (00:43:22) zoom out -4.0133 1.1287
+\i (00:43:22) trapsize 853
+\i (00:43:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:43:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:43:43) delete 
+\i (00:43:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:43:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:43:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:43:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:43:43) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:43:46) pick grid 3.3196 -0.7642
+\t (00:43:46) last pick:  3.3200 -0.7640
+\t (00:43:46) Pin "Smd0r3cir, N17"
+\i (00:43:53) pick grid 5.6559 -0.7472
+\t (00:43:53) last pick:  5.6560 -0.7470
+\t (00:43:53) Pin "Smd0r3cir, N21"
+\i (00:43:54) prepopup -9.9309 3.7037
+\i (00:43:55) done 
+\i (00:43:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:43:58) save 
+\i (00:43:58) fillin yes 
+\e (00:43:59) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:44:00) setwindow text
+\i (00:44:00) close
+\i (00:44:01) zoom out 1 
+\i (00:44:01) setwindow pcb
+\i (00:44:01) zoom out -5.6846 1.8279
+\i (00:44:01) trapsize 1705
+\i (00:44:02) zoom in 1 
+\i (00:44:02) setwindow pcb
+\i (00:44:02) zoom in -4.7296 -1.0030
+\i (00:44:02) trapsize 853
+\i (00:44:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:52) delete 
+\i (00:44:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:44:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:45:05) pick grid -5.0536 -1.3952
+\t (00:45:05) last pick:  -5.0540 -1.3950
+\t (00:45:05) Pin "Smd0r3cir, P4"
+\i (00:45:08) pick grid 3.3196 -1.3099
+\t (00:45:08) last pick:  3.3200 -1.3100
+\t (00:45:08) Pin "Smd0r3cir, P17"
+\i (00:45:11) pick grid 2.1088 -1.3440
+\t (00:45:11) last pick:  2.1090 -1.3440
+\t (00:45:11) Pin "Smd0r3cir, P15"
+\i (00:45:16) pick grid 5.7582 -1.4463
+\t (00:45:16) last pick:  5.7580 -1.4460
+\t (00:45:16) Pin "Smd0r3cir, P21"
+\i (00:45:20) prepopup 8.2992 -0.3208
+\i (00:45:20) done 
+\i (00:45:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:45:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:45:23) zoom out 1 
+\i (00:45:23) setwindow pcb
+\i (00:45:23) zoom out -10.1355 -0.1162
+\i (00:45:23) trapsize 1705
+\i (00:45:23) zoom in 1 
+\i (00:45:23) setwindow pcb
+\i (00:45:23) zoom in -4.7125 -4.6183
+\i (00:45:23) trapsize 853
+\i (00:46:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:12) delete 
+\i (00:46:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:46:15) pick grid -7.3728 -2.0432
+\t (00:46:15) last pick:  -7.3730 -2.0430
+\t (00:46:15) Pin "Smd0r3cir, R1"
+\i (00:46:18) pick grid 3.2344 -2.0091
+\t (00:46:18) last pick:  3.2340 -2.0090
+\t (00:46:18) Pin "Smd0r3cir, R17"
+\i (00:46:18) pick grid 3.9506 -2.0261
+\t (00:46:18) last pick:  3.9510 -2.0260
+\t (00:46:18) Pin "Smd0r3cir, R18"
+\i (00:46:20) pick grid 4.3769 -2.0432
+\t (00:46:20) last pick:  4.3770 -2.0430
+\t (00:46:20) Pin "Smd0r3cir, R19"
+\i (00:46:23) pick grid 5.0591 -1.9750
+\t (00:46:23) last pick:  5.0590 -1.9750
+\t (00:46:23) Pin "Smd0r3cir, R20"
+\i (00:46:27) pick grid 6.9861 -1.9750
+\t (00:46:27) last pick:  6.9860 -1.9750
+\t (00:46:27) Pin "Smd0r3cir, R23"
+\i (00:46:28) prepopup 8.7597 -0.4743
+\i (00:46:29) done 
+\i (00:46:31) save 
+\i (00:46:31) fillin yes 
+\e (00:46:32) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:46:35) setwindow text
+\i (00:46:35) close
+\i (00:47:17) delete 
+\i (00:47:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:47:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:47:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:47:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:47:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:47:18) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:47:29) pick grid -4.6102 -2.6741
+\t (00:47:29) last pick:  -4.6100 -2.6740
+\t (00:47:29) Pin "Smd0r3cir, T5"
+\i (00:47:31) pick grid -3.3482 -2.6400
+\t (00:47:31) last pick:  -3.3480 -2.6400
+\t (00:47:31) Pin "Smd0r3cir, T7"
+\i (00:47:40) pick grid 2.7398 -2.5548
+\t (00:47:40) last pick:  2.7400 -2.5550
+\t (00:47:40) Pin "Smd0r3cir, T16"
+\i (00:47:42) pick grid 4.0018 -2.5377
+\t (00:47:42) last pick:  4.0020 -2.5380
+\t (00:47:42) Pin "Smd0r3cir, T18"
+\i (00:47:46) prepopup 9.2713 -1.0200
+\i (00:47:47) done 
+\i (00:48:40) delete 
+\i (00:48:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:48:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:48:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:48:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:48:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:48:44) pick grid -5.8039 -3.2540
+\t (00:48:44) last pick:  -5.8040 -3.2540
+\t (00:48:44) Pin "Smd0r3cir, U3"
+\i (00:48:51) pick grid -1.4042 -3.2540
+\t (00:48:51) last pick:  -1.4040 -3.2540
+\t (00:48:51) Pin "Smd0r3cir, U10"
+\i (00:49:00) pick grid 0.5058 -3.3392
+\t (00:49:00) last pick:  0.5060 -3.3390
+\t (00:49:00) Pin "Smd0r3cir, U13"
+\i (00:49:06) pick grid 1.3585 -3.2881
+\t (00:49:06) last pick:  1.3590 -3.2880
+\t (00:49:06) Pin "Smd0r3cir, U14"
+\i (00:49:07) pick grid 3.2685 -3.2540
+\t (00:49:07) last pick:  3.2690 -3.2540
+\t (00:49:07) Pin "Smd0r3cir, U17"
+\i (00:49:08) prepopup 9.6635 -1.4463
+\i (00:49:09) done 
+\i (00:49:11) save 
+\i (00:49:11) fillin yes 
+\e (00:49:12) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:49:14) setwindow text
+\i (00:49:14) close
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:04) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:07) delete 
+\i (00:50:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:07) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:13) pick grid -7.1170 -3.9873
+\t (00:50:13) last pick:  -7.1170 -3.9870
+\t (00:50:13) Pin "Smd0r3cir, V1"
+\i (00:50:24) pick grid -3.3141 -3.9531
+\t (00:50:24) last pick:  -3.3140 -3.9530
+\t (00:50:24) Pin "Smd0r3cir, V7"
+\i (00:50:34) pick grid -0.6538 -3.9190
+\t (00:50:34) last pick:  -0.6540 -3.9190
+\t (00:50:34) Pin "Smd0r3cir, V11"
+\i (00:50:35) pick grid 0.0283 -3.9190
+\t (00:50:35) last pick:  0.0280 -3.9190
+\t (00:50:35) Pin "Smd0r3cir, V12"
+\i (00:50:36) pick grid 0.6422 -3.9361
+\t (00:50:36) last pick:  0.6420 -3.9360
+\t (00:50:36) Pin "Smd0r3cir, V13"
+\i (00:50:40) pick grid 2.0577 -3.9531
+\t (00:50:40) last pick:  2.0580 -3.9530
+\t (00:50:40) Pin "Smd0r3cir, V15"
+\i (00:50:41) pick grid 2.5352 -3.9361
+\t (00:50:41) last pick:  2.5350 -3.9360
+\t (00:50:41) Pin "Smd0r3cir, V16"
+\i (00:50:46) pick grid 4.4452 -4.0384
+\t (00:50:46) last pick:  4.4450 -4.0380
+\t (00:50:46) Pin "Smd0r3cir, V19"
+\i (00:50:47) pick grid 5.2467 -3.8849
+\t (00:50:47) last pick:  5.2470 -3.8850
+\t (00:50:47) Pin "Smd0r3cir, V20"
+\i (00:50:49) pick grid 7.1055 -3.9361
+\t (00:50:49) last pick:  7.1060 -3.9360
+\t (00:50:49) Pin "Smd0r3cir, V23"
+\i (00:50:49) prepopup 9.6805 -2.8276
+\i (00:50:50) done 
+\i (00:50:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:51) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:50:53) save 
+\i (00:50:53) fillin yes 
+\e (00:50:54) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:50:56) setwindow text
+\i (00:50:56) close
+\i (00:50:56) zoom out 1 
+\i (00:50:56) setwindow pcb
+\i (00:50:56) zoom out -1.2166 -4.3454
+\i (00:50:56) trapsize 1705
+\i (00:50:56) zoom out 1 
+\i (00:50:56) setwindow pcb
+\i (00:50:56) zoom out -1.4553 -4.3453
+\i (00:50:56) trapsize 3411
+\i (00:50:56) zoom out 1 
+\i (00:50:56) setwindow pcb
+\i (00:50:56) zoom out -1.5235 -4.4136
+\i (00:50:56) trapsize 6821
+\i (00:50:57) zoom in 1 
+\i (00:50:57) setwindow pcb
+\i (00:50:57) zoom in -6.9588 -0.3208
+\i (00:50:57) trapsize 3411
+\i (00:50:57) zoom in 1 
+\i (00:50:57) setwindow pcb
+\i (00:50:57) zoom in -6.8906 -0.2526
+\i (00:50:57) trapsize 1705
+\i (00:50:57) zoom in 1 
+\i (00:50:57) setwindow pcb
+\i (00:50:57) zoom in -6.6518 -0.0138
+\i (00:50:57) trapsize 853
+\i (00:50:58) zoom out 1 
+\i (00:50:58) setwindow pcb
+\i (00:50:58) zoom out -6.7882 0.1567
+\i (00:50:58) trapsize 1705
+\i (00:50:58) zoom out 1 
+\i (00:50:58) setwindow pcb
+\i (00:50:58) zoom out -7.2317 0.1909
+\i (00:50:58) trapsize 3411
+\i (00:50:58) zoom in 1 
+\i (00:50:58) setwindow pcb
+\i (00:50:58) zoom in -2.6613 -5.1298
+\i (00:50:58) trapsize 1705
+\i (00:50:58) zoom in 1 
+\i (00:50:58) setwindow pcb
+\i (00:50:58) zoom in -2.6272 -5.0956
+\i (00:50:58) trapsize 853
+\i (00:50:59) zoom in 1 
+\i (00:50:59) setwindow pcb
+\i (00:50:59) zoom in -4.3496 -5.1638
+\i (00:50:59) trapsize 426
+\i (00:51:00) zoom out 1 
+\i (00:51:00) setwindow pcb
+\i (00:51:00) zoom out -4.6651 -4.8910
+\i (00:51:00) trapsize 853
+\i (00:51:00) zoom out 1 
+\i (00:51:00) setwindow pcb
+\i (00:51:00) zoom out -4.8187 -4.8739
+\i (00:51:00) trapsize 1705
+\i (00:51:00) zoom in 1 
+\i (00:51:00) setwindow pcb
+\i (00:51:00) zoom in -4.9209 -5.8629
+\i (00:51:00) trapsize 853
+\i (00:51:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:49) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:51:49) delete 
+\i (00:51:51) setwindow form.find
+\i (00:51:51) FORM find all_off  
+\i (00:51:53) FORM find pins YES 
+\i (00:52:03) setwindow pcb
+\i (00:52:03) pick grid -6.5410 -4.4475
+\t (00:52:03) last pick:  -6.5410 -4.4470
+\t (00:52:03) Pin "Smd0r3cir, W2"
+\i (00:52:08) pick grid -4.5798 -4.5328
+\t (00:52:08) last pick:  -4.5800 -4.5330
+\t (00:52:08) Pin "Smd0r3cir, W5"
+\i (00:52:12) pick grid 0.0416 -4.5498
+\t (00:52:12) last pick:  0.0420 -4.5500
+\t (00:52:12) Pin "Smd0r3cir, W12"
+\i (00:52:15) pick grid 1.3036 -4.6180
+\t (00:52:15) last pick:  1.3040 -4.6180
+\t (00:52:15) Pin "Smd0r3cir, W14"
+\i (00:52:16) pick grid 2.0369 -4.5839
+\t (00:52:16) last pick:  2.0370 -4.5840
+\t (00:52:16) Pin "Smd0r3cir, W15"
+\i (00:52:19) pick grid 3.9639 -4.7203
+\t (00:52:19) last pick:  3.9640 -4.7200
+\t (00:52:19) Pin "Smd0r3cir, W18"
+\i (00:52:23) prepopup -9.4230 -2.7933
+\i (00:52:24) done 
+\i (00:52:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:24) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:25) save 
+\i (00:52:26) fillin yes 
+\e (00:52:27) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:52:28) setwindow text
+\i (00:52:28) close
+\i (00:52:30) delete 
+\i (00:52:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:52:30) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:20) zoom in 1 
+\i (00:53:20) setwindow pcb
+\i (00:53:20) zoom in -0.5552 -2.5546
+\i (00:53:20) trapsize 426
+\i (00:53:22) zoom out 1 
+\i (00:53:22) setwindow pcb
+\i (00:53:22) zoom out -0.2909 -4.5071
+\i (00:53:22) trapsize 853
+\i (00:53:22) zoom out 1 
+\i (00:53:22) setwindow pcb
+\i (00:53:22) zoom out -0.2909 -4.5072
+\i (00:53:22) trapsize 1705
+\i (00:53:22) zoom out 1 
+\i (00:53:22) setwindow pcb
+\i (00:53:22) zoom out -0.2909 -4.5072
+\i (00:53:22) trapsize 3411
+\i (00:53:22) zoom in 1 
+\i (00:53:22) setwindow pcb
+\i (00:53:22) zoom in -5.4751 -5.0529
+\i (00:53:22) trapsize 1705
+\i (00:53:22) zoom in 1 
+\i (00:53:22) setwindow pcb
+\i (00:53:22) zoom in -5.4069 -5.0528
+\i (00:53:22) trapsize 853
+\i (00:53:23) zoom out 1 
+\i (00:53:23) setwindow pcb
+\i (00:53:23) zoom out -8.3059 -5.3768
+\i (00:53:23) trapsize 1705
+\i (00:53:23) zoom in 1 
+\i (00:53:23) setwindow pcb
+\i (00:53:23) zoom in -5.5774 -6.7752
+\i (00:53:23) trapsize 853
+\i (00:53:25) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:26) delete 
+\i (00:53:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:27) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:53:29) pick grid -7.1804 -5.2404
+\t (00:53:29) last pick:  -7.1800 -5.2400
+\t (00:53:29) Pin "Smd0r3cir, Y1"
+\i (00:53:34) pick grid -4.4177 -5.1893
+\t (00:53:34) last pick:  -4.4180 -5.1890
+\t (00:53:34) Pin "Smd0r3cir, Y5"
+\i (00:53:38) pick grid -2.0473 -5.2234
+\t (00:53:38) last pick:  -2.0470 -5.2230
+\t (00:53:38) Pin "Smd0r3cir, Y9"
+\i (00:53:43) pick grid 0.0162 -5.2063
+\t (00:53:43) last pick:  0.0160 -5.2060
+\t (00:53:43) Pin "Smd0r3cir, Y12"
+\i (00:53:47) pick grid 1.8750 -5.1893
+\t (00:53:47) last pick:  1.8750 -5.1890
+\t (00:53:47) Pin "Smd0r3cir, Y15"
+\i (00:53:52) pick grid 3.8020 -5.2063
+\t (00:53:52) last pick:  3.8020 -5.2060
+\t (00:53:52) Pin "Smd0r3cir, Y18"
+\i (00:53:53) zoom out 1 
+\i (00:53:53) setwindow pcb
+\i (00:53:53) zoom out 0.7324 -5.2916
+\i (00:53:53) trapsize 1705
+\i (00:53:53) zoom in 1 
+\i (00:53:53) setwindow pcb
+\i (00:53:53) zoom in 5.7461 -5.7690
+\i (00:53:53) trapsize 853
+\i (00:53:59) pick grid 5.2857 -5.2574
+\t (00:53:59) last pick:  5.2860 -5.2570
+\t (00:53:59) Pin "Smd0r3cir, Y20"
+\i (00:54:00) prepopup -9.3461 -3.8761
+\i (00:54:01) done 
+\i (00:54:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:02) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:03) save 
+\i (00:54:04) fillin yes 
+\e (00:54:05) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:54:07) setwindow text
+\i (00:54:07) close
+\i (00:54:09) delete 
+\i (00:54:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:33) delete 
+\i (00:54:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:33) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:35) pick grid -6.6687 -5.8713
+\t (00:54:35) last pick:  -6.6690 -5.8710
+\t (00:54:35) Pin "Smd0r3cir, Aa2"
+\i (00:54:37) pick grid -5.1851 -5.8543
+\t (00:54:37) last pick:  -5.1850 -5.8540
+\t (00:54:37) Pin "Smd0r3cir, Aa4"
+\i (00:54:39) pick grid 7.2127 -5.8713
+\t (00:54:39) last pick:  7.2130 -5.8710
+\t (00:54:39) Pin "Smd0r3cir, Aa23"
+\i (00:54:40) pick grid -9.9771 -3.7226
+\t (00:54:40) last pick:  -9.9770 -3.7230
+\i (00:54:40) prepopup -9.9771 -3.7226
+\i (00:54:41) done 
+\i (00:54:43) save 
+\i (00:54:44) fillin yes 
+\e (00:54:45) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:54:46) setwindow text
+\i (00:54:46) close
+\i (00:54:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:58) delete 
+\i (00:54:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:54:58) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:55:00) pick grid -7.1633 -6.4170
+\t (00:55:00) last pick:  -7.1630 -6.4170
+\t (00:55:00) Pin "Smd0r3cir, Ab1"
+\i (00:55:02) pick grid -6.0207 -6.5364
+\t (00:55:02) last pick:  -6.0210 -6.5360
+\t (00:55:02) Pin "Smd0r3cir, Ab3"
+\i (00:55:02) prepopup -9.2779 -5.1551
+\i (00:55:03) done 
+\i (00:55:05) save 
+\i (00:55:06) fillin yes 
+\e (00:55:06) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:55:08) setwindow text
+\i (00:55:08) close
+\i (00:55:48) delete 
+\i (00:55:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:55:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:55:48) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:55:51) pick grid -6.0548 -7.1845
+\t (00:55:51) last pick:  -6.0550 -7.1840
+\t (00:55:51) Pin "Smd0r3cir, Ac3"
+\i (00:55:53) pick grid -3.7696 -7.1333
+\t (00:55:53) last pick:  -3.7700 -7.1330
+\t (00:55:53) Pin "Smd0r3cir, Ac6"
+\i (00:55:56) pick grid -2.0643 -7.1333
+\t (00:55:56) last pick:  -2.0640 -7.1330
+\t (00:55:56) Pin "Smd0r3cir, Ac9"
+\i (00:55:59) pick grid 0.0674 -7.2015
+\t (00:55:59) last pick:  0.0670 -7.2010
+\t (00:55:59) Pin "Smd0r3cir, Ac12"
+\i (00:56:02) pick grid 2.0456 -7.2697
+\t (00:56:02) last pick:  2.0460 -7.2700
+\t (00:56:02) Pin "Smd0r3cir, Ac15"
+\i (00:56:04) pick grid 3.8703 -7.2356
+\t (00:56:04) last pick:  3.8700 -7.2360
+\t (00:56:04) Pin "Smd0r3cir, Ac18"
+\i (00:56:07) pick grid 5.7291 -7.2868
+\t (00:56:07) last pick:  5.7290 -7.2870
+\t (00:56:07) Pin "Smd0r3cir, Ac21"
+\i (00:56:08) prepopup 4.9617 -7.8836
+\i (00:56:09) done 
+\i (00:56:12) zoom out 1 
+\i (00:56:12) setwindow pcb
+\i (00:56:12) zoom out -2.9340 -6.7070
+\i (00:56:12) trapsize 1705
+\i (00:56:12) zoom out 1 
+\i (00:56:12) setwindow pcb
+\i (00:56:12) zoom out -3.1387 -6.6728
+\i (00:56:12) trapsize 3411
+\i (00:56:13) zoom in 1 
+\i (00:56:13) setwindow pcb
+\i (00:56:13) zoom in -2.7976 -4.8993
+\i (00:56:13) trapsize 1705
+\i (00:56:13) zoom in 1 
+\i (00:56:13) setwindow pcb
+\i (00:56:13) zoom in -2.7293 -4.8992
+\i (00:56:13) trapsize 853
+\i (00:56:13) zoom out 1 
+\i (00:56:13) setwindow pcb
+\i (00:56:13) zoom out -2.7293 -4.8139
+\i (00:56:13) trapsize 1705
+\i (00:56:15) save 
+\i (00:56:16) fillin yes 
+\e (00:56:17) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:56:18) setwindow text
+\i (00:56:18) close
+\i (00:56:19) zoom out 1 
+\i (00:56:19) setwindow pcb
+\i (00:56:19) zoom out -2.8316 -0.3801
+\i (00:56:19) trapsize 3411
+\i (00:56:19) zoom in 1 
+\i (00:56:19) setwindow pcb
+\i (00:56:19) zoom in -2.1494 -7.0651
+\i (00:56:19) trapsize 1705
+\i (00:56:19) zoom in 1 
+\i (00:56:19) setwindow pcb
+\i (00:56:19) zoom in -2.1494 -7.0651
+\i (00:56:19) trapsize 853
+\i (00:56:49) zoom out 1 
+\i (00:56:49) setwindow pcb
+\i (00:56:49) zoom out -5.3384 -9.4184
+\i (00:56:49) trapsize 1705
+\i (00:58:53) zoom in 1 
+\i (00:58:53) setwindow pcb
+\i (00:58:53) zoom in -4.9291 -0.9940
+\i (00:58:53) trapsize 853
+\i (00:58:54) zoom out 1 
+\i (00:58:54) setwindow pcb
+\i (00:58:54) zoom out -4.1446 -0.2778
+\i (00:58:54) trapsize 1705
+\i (00:59:04) add line 
+\i (00:59:08) add rect 
+\i (00:59:11) setwindow form.mini
+\i (00:59:11) FORM mini subclass ASSEMBLY_TOP 
+\i (00:59:21) setwindow pcb
+\i (00:59:21) pick -7.5 7.5 
+\t (00:59:21) last pick:  -7.5000 7.5000
+\i (00:59:33) pick 7.5 -7.5 
+\t (00:59:33) last pick:  7.5000 -7.5000
+\i (00:59:34) prepopup 12.2949 0.8137
+\i (00:59:35) done 
+\i (00:59:36) zoom out 1 
+\i (00:59:36) setwindow pcb
+\i (00:59:36) zoom out 6.4967 0.5749
+\i (00:59:36) trapsize 3411
+\i (00:59:36) zoom in 1 
+\i (00:59:36) setwindow pcb
+\i (00:59:36) zoom in 3.9047 -2.3583
+\i (00:59:36) trapsize 1705
+\i (00:59:36) zoom in 1 
+\i (00:59:36) setwindow pcb
+\i (00:59:36) zoom in 3.9047 -2.3583
+\i (00:59:36) trapsize 853
+\i (00:59:37) zoom out 1 
+\i (00:59:37) setwindow pcb
+\i (00:59:37) zoom out 4.0241 -2.0513
+\i (00:59:37) trapsize 1705
+\i (00:59:38) save 
+\i (00:59:38) fillin yes 
+\e (00:59:39) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:59:41) setwindow text
+\i (00:59:41) close
+\i (00:59:41) zoom in 1 
+\i (00:59:41) setwindow pcb
+\i (00:59:41) zoom in 2.0459 1.0524
+\i (00:59:41) trapsize 853
+\i (00:59:42) zoom out 1 
+\i (00:59:42) setwindow pcb
+\i (00:59:42) zoom out 1.5173 0.6432
+\i (00:59:42) trapsize 1705
+\i (00:59:42) zoom out 1 
+\i (00:59:42) setwindow pcb
+\i (00:59:42) zoom out 1.4490 0.5409
+\i (00:59:42) trapsize 3411
+\i (00:59:43) zoom in 1 
+\i (00:59:43) setwindow pcb
+\i (00:59:43) zoom in -5.5087 -3.0745
+\i (00:59:43) trapsize 1705
+\i (00:59:43) zoom in 1 
+\i (00:59:43) setwindow pcb
+\i (00:59:43) zoom in -4.4855 -2.2559
+\i (00:59:43) trapsize 853
+\i (00:59:44) zoom in 1 
+\i (00:59:44) setwindow pcb
+\i (00:59:44) zoom in -4.1103 -2.2048
+\i (00:59:44) trapsize 426
+\i (00:59:44) zoom out 1 
+\i (00:59:44) setwindow pcb
+\i (00:59:44) zoom out -4.1103 -2.2047
+\i (00:59:44) trapsize 853
+\i (01:01:07) zoom out 1 
+\i (01:01:07) setwindow pcb
+\i (01:01:07) zoom out 2.2164 -1.4544
+\i (01:01:07) trapsize 1705
+\i (01:01:08) zoom out 1 
+\i (01:01:08) setwindow pcb
+\i (01:01:08) zoom out -9.6528 -10.9702
+\i (01:01:08) trapsize 3411
+\i (01:01:08) zoom out 1 
+\i (01:01:08) setwindow pcb
+\i (01:01:08) zoom out -14.2230 -10.4245
+\i (01:01:08) trapsize 6821
+\i (01:01:08) zoom in 1 
+\i (01:01:08) setwindow pcb
+\i (01:01:08) zoom in -2.7631 -5.2402
+\i (01:01:08) trapsize 3411
+\i (01:01:08) zoom in 1 
+\i (01:01:08) setwindow pcb
+\i (01:01:08) zoom in -2.7631 -5.2402
+\i (01:01:08) trapsize 1705
+\i (01:01:08) zoom in 1 
+\i (01:01:08) setwindow pcb
+\i (01:01:08) zoom in -2.7289 -5.2402
+\i (01:01:08) trapsize 853
+\i (01:01:09) zoom out 1 
+\i (01:01:09) setwindow pcb
+\i (01:01:09) zoom out -5.5257 -5.1378
+\i (01:01:09) trapsize 1705
+\i (01:01:09) zoom out 1 
+\i (01:01:09) setwindow pcb
+\i (01:01:09) zoom out -6.4124 -5.1719
+\i (01:01:09) trapsize 3411
+\i (01:01:09) zoom in 1 
+\i (01:01:09) setwindow pcb
+\i (01:01:09) zoom in 3.8878 2.8772
+\i (01:01:09) trapsize 1705
+\i (01:01:09) zoom in 1 
+\i (01:01:09) setwindow pcb
+\i (01:01:09) zoom in 3.8878 2.8772
+\i (01:01:09) trapsize 853
+\i (01:01:10) zoom out 1 
+\i (01:01:10) setwindow pcb
+\i (01:01:10) zoom out 3.7684 2.6555
+\i (01:01:10) trapsize 1705
+\i (01:01:10) zoom out 1 
+\i (01:01:10) setwindow pcb
+\i (01:01:10) zoom out 3.5297 2.4850
+\i (01:01:10) trapsize 3411
+\i (01:01:10) zoom out 1 
+\i (01:01:10) setwindow pcb
+\i (01:01:10) zoom out 2.0290 1.7347
+\i (01:01:10) trapsize 6821
+\i (01:01:10) zoom out 1 
+\i (01:01:10) setwindow pcb
+\i (01:01:10) zoom out -4.7760 1.4619
+\i (01:01:10) trapsize 13643
+\i (01:01:10) zoom out 1 
+\i (01:01:10) setwindow pcb
+\i (01:01:10) zoom out 29.6044 -33.9700
+\i (01:01:10) trapsize 13643
+\i (01:01:10) zoom out 1 
+\i (01:01:10) setwindow pcb
+\i (01:01:10) zoom out 29.3315 -34.5157
+\i (01:01:10) trapsize 13643
+\i (01:01:10) zoom out 1 
+\i (01:01:10) setwindow pcb
+\i (01:01:10) zoom out 28.7858 -35.0614
+\i (01:01:10) trapsize 13643
+\i (01:01:11) zoom out 1 
+\i (01:01:11) setwindow pcb
+\i (01:01:11) zoom out 27.1487 -33.1514
+\i (01:01:11) trapsize 13643
+\i (01:01:11) zoom out 1 
+\i (01:01:11) setwindow pcb
+\i (01:01:11) zoom out 25.7844 -33.4243
+\i (01:01:11) trapsize 13643
+\i (01:01:11) zoom out 1 
+\i (01:01:11) setwindow pcb
+\i (01:01:11) zoom out 24.6930 -33.4243
+\i (01:01:11) trapsize 13643
+\i (01:01:11) zoom out 1 
+\i (01:01:11) setwindow pcb
+\i (01:01:11) zoom out 24.4202 -33.1514
+\i (01:01:11) trapsize 13643
+\i (01:01:11) zoom out 1 
+\i (01:01:11) setwindow pcb
+\i (01:01:11) zoom out 24.1473 -32.6057
+\i (01:01:11) trapsize 13643
+\i (01:01:11) zoom in 1 
+\i (01:01:11) setwindow pcb
+\i (01:01:11) zoom in 12.6876 2.0464
+\i (01:01:11) trapsize 6821
+\i (01:01:11) zoom in 1 
+\i (01:01:11) setwindow pcb
+\i (01:01:11) zoom in -15.0069 0.9550
+\i (01:01:11) trapsize 3411
+\i (01:01:11) zoom in 1 
+\i (01:01:11) setwindow pcb
+\i (01:01:11) zoom in -15.0068 0.9550
+\i (01:01:11) trapsize 1705
+\i (01:01:12) zoom out 1 
+\i (01:01:12) setwindow pcb
+\i (01:01:12) zoom out -13.4720 -1.4665
+\i (01:01:12) trapsize 3411
+\i (01:01:12) zoom out 1 
+\i (01:01:12) setwindow pcb
+\i (01:01:12) zoom out -13.6767 -1.8758
+\i (01:01:12) trapsize 6821
+\i (01:01:12) zoom in 1 
+\i (01:01:12) setwindow pcb
+\i (01:01:12) zoom in -4.3997 4.1270
+\i (01:01:12) trapsize 3411
+\i (01:01:12) zoom in 1 
+\i (01:01:12) setwindow pcb
+\i (01:01:12) zoom in -3.5812 3.8541
+\i (01:01:12) trapsize 1705
+\i (01:03:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:03:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:03:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:03:21) zoom out 1 
+\i (01:03:21) setwindow pcb
+\i (01:03:21) zoom out -2.4215 6.1051
+\i (01:03:21) trapsize 3411
+\i (01:03:21) zoom out 1 
+\i (01:03:21) setwindow pcb
+\i (01:03:21) zoom out -2.9672 6.1734
+\i (01:03:21) trapsize 6821
+\i (01:03:21) zoom out 1 
+\i (01:03:21) setwindow pcb
+\i (01:03:21) zoom out -5.8322 6.1734
+\i (01:03:21) trapsize 13643
+\i (01:03:21) zoom out 1 
+\i (01:03:21) setwindow pcb
+\i (01:03:21) zoom out 37.7899 8.0491
+\i (01:03:21) trapsize 13643
+\i (01:03:22) zoom in 1 
+\i (01:03:22) setwindow pcb
+\i (01:03:22) zoom in 13.2333 -3.4106
+\i (01:03:22) trapsize 6821
+\i (01:03:23) zoom in 1 
+\i (01:03:23) setwindow pcb
+\i (01:03:23) zoom in -7.0942 -1.9099
+\i (01:03:23) trapsize 3411
+\i (01:03:23) zoom out 1 
+\i (01:03:23) setwindow pcb
+\i (01:03:23) zoom out -7.2988 -2.1828
+\i (01:03:23) trapsize 6821
+\i (01:03:23) zoom out 1 
+\i (01:03:23) setwindow pcb
+\i (01:03:23) zoom out -7.5034 -2.1827
+\i (01:03:23) trapsize 13643
+\i (01:03:23) zoom out 1 
+\i (01:03:23) setwindow pcb
+\i (01:03:23) zoom out 24.9659 -1.5007
+\i (01:03:23) trapsize 13643
+\i (01:03:23) zoom out 1 
+\i (01:03:23) setwindow pcb
+\i (01:03:23) zoom out 24.9659 -1.5007
+\i (01:03:23) trapsize 13643
+\i (01:03:23) zoom out 1 
+\i (01:03:23) setwindow pcb
+\i (01:03:23) zoom out 24.9659 -1.5007
+\i (01:03:23) trapsize 13643
+\i (01:03:23) zoom out 1 
+\i (01:03:23) setwindow pcb
+\i (01:03:23) zoom out 24.9659 -1.5007
+\i (01:03:23) trapsize 13643
+\i (01:03:24) zoom in 1 
+\i (01:03:24) setwindow pcb
+\i (01:03:24) zoom in 4.2292 2.5921
+\i (01:03:24) trapsize 6821
+\i (01:03:24) zoom in 1 
+\i (01:03:24) setwindow pcb
+\i (01:03:24) zoom in -17.8718 2.5922
+\i (01:03:24) trapsize 3411
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out -17.8718 2.5240
+\i (01:03:25) trapsize 6821
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out -17.8718 2.5240
+\i (01:03:25) trapsize 13643
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out 4.2292 2.3192
+\i (01:03:25) trapsize 13643
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out 4.7749 2.3192
+\i (01:03:25) trapsize 13643
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out 4.7749 2.3192
+\i (01:03:25) trapsize 13643
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out 4.7749 2.3192
+\i (01:03:25) trapsize 13643
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out 4.7749 2.3192
+\i (01:03:25) trapsize 13643
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out 4.7749 2.3192
+\i (01:03:25) trapsize 13643
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out 4.7749 2.3192
+\i (01:03:25) trapsize 13643
+\i (01:03:25) zoom out 1 
+\i (01:03:25) setwindow pcb
+\i (01:03:25) zoom out 4.7749 2.3192
+\i (01:03:25) trapsize 13643
+\i (01:03:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:03:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:03:40) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:09:37) zoom in 1 
+\i (01:09:37) setwindow pcb
+\i (01:09:37) zoom in -17.0532 8.8677
+\i (01:09:37) trapsize 6821
+\i (01:09:37) zoom in 1 
+\i (01:09:37) setwindow pcb
+\i (01:09:37) zoom in -27.9673 8.1856
+\i (01:09:37) trapsize 3411
+\i (01:09:37) zoom in 1 
+\i (01:09:37) setwindow pcb
+\i (01:09:37) zoom in -27.7626 8.1174
+\i (01:09:37) trapsize 1705
+\i (01:09:38) zoom out 1 
+\i (01:09:38) setwindow pcb
+\i (01:09:38) zoom out -27.5580 7.6058
+\i (01:09:38) trapsize 3411
+\i (01:09:38) zoom out 1 
+\i (01:09:38) setwindow pcb
+\i (01:09:38) zoom out -27.7626 7.3330
+\i (01:09:38) trapsize 6821
+\i (01:09:38) zoom in 1 
+\i (01:09:38) setwindow pcb
+\i (01:09:38) zoom in -6.0709 -0.1704
+\i (01:09:38) trapsize 3411
+\i (01:09:38) zoom in 1 
+\i (01:09:38) setwindow pcb
+\i (01:09:38) zoom in -5.1158 0.7164
+\i (01:09:38) trapsize 1705
+\i (01:09:39) zoom in 1 
+\i (01:09:39) setwindow pcb
+\i (01:09:39) zoom in -3.9562 1.6373
+\i (01:09:39) trapsize 853
+\i (01:09:39) zoom in 1 
+\i (01:09:39) setwindow pcb
+\i (01:09:39) zoom in -3.9391 1.6373
+\i (01:09:39) trapsize 426
+\i (01:09:39) zoom in 1 
+\i (01:09:39) setwindow pcb
+\i (01:09:39) zoom in -3.9391 1.6373
+\i (01:09:39) trapsize 213
+\i (01:09:39) zoom out 1 
+\i (01:09:39) setwindow pcb
+\i (01:09:39) zoom out -3.9561 1.6288
+\i (01:09:39) trapsize 426
+\i (01:09:39) zoom out 1 
+\i (01:09:39) setwindow pcb
+\i (01:09:39) zoom out -3.9646 1.6118
+\i (01:09:39) trapsize 853
+\i (01:09:40) zoom in 1 
+\i (01:09:40) setwindow pcb
+\i (01:09:40) zoom in -3.9477 1.6629
+\i (01:09:40) trapsize 426
+\i (01:09:40) zoom in 1 
+\i (01:09:40) setwindow pcb
+\i (01:09:40) zoom in -3.9477 1.6629
+\i (01:09:40) trapsize 213
+\i (01:09:41) zoom out 1 
+\i (01:09:41) setwindow pcb
+\i (01:09:41) zoom out -3.9477 1.6758
+\i (01:09:41) trapsize 426
+\i (01:09:41) zoom out 1 
+\i (01:09:41) setwindow pcb
+\i (01:09:41) zoom out -3.9477 1.6757
+\i (01:09:41) trapsize 853
+\i (01:09:41) zoom out 1 
+\i (01:09:41) setwindow pcb
+\i (01:09:41) zoom out -3.9478 1.6758
+\i (01:09:41) trapsize 1705
+\i (01:09:41) zoom out 1 
+\i (01:09:41) setwindow pcb
+\i (01:09:41) zoom out -3.9477 1.6757
+\i (01:09:41) trapsize 3411
+\i (01:09:41) zoom in 1 
+\i (01:09:41) setwindow pcb
+\i (01:09:41) zoom in -4.2888 6.0414
+\i (01:09:41) trapsize 1705
+\i (01:09:42) zoom in 1 
+\i (01:09:42) setwindow pcb
+\i (01:09:42) zoom in -4.2887 6.0415
+\i (01:09:42) trapsize 853
+\i (01:09:42) zoom in 1 
+\i (01:09:42) setwindow pcb
+\i (01:09:42) zoom in -4.2887 6.0415
+\i (01:09:42) trapsize 426
+\i (01:09:44) zoom out 1 
+\i (01:09:44) setwindow pcb
+\i (01:09:44) zoom out -5.1926 4.8819
+\i (01:09:44) trapsize 853
+\i (01:09:44) zoom out 1 
+\i (01:09:44) setwindow pcb
+\i (01:09:44) zoom out -5.2608 4.9331
+\i (01:09:44) trapsize 1705
+\i (01:09:44) zoom in 1 
+\i (01:09:44) setwindow pcb
+\i (01:09:44) zoom in -5.9088 6.7066
+\i (01:09:44) trapsize 853
+\i (01:09:44) zoom in 1 
+\i (01:09:44) setwindow pcb
+\i (01:09:44) zoom in -5.9088 6.7067
+\i (01:09:44) trapsize 426
+\i (01:09:44) zoom in 1 
+\i (01:09:44) setwindow pcb
+\i (01:09:44) zoom in -5.9088 6.7152
+\i (01:09:44) trapsize 213
+\i (01:09:46) zoom out 1 
+\i (01:09:46) setwindow pcb
+\i (01:09:46) zoom out -6.3351 6.8730
+\i (01:09:46) trapsize 426
+\i (01:10:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:10:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:10:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:10:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:10:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:10:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:10:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:10:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:10:46) zoom out 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom out -7.8443 7.5551
+\i (01:10:46) trapsize 853
+\i (01:10:46) zoom out 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom out -7.6398 7.4699
+\i (01:10:46) trapsize 1705
+\i (01:10:46) zoom out 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom out -7.6399 7.4699
+\i (01:10:46) trapsize 3411
+\i (01:10:46) zoom in 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom in -4.2974 4.6049
+\i (01:10:46) trapsize 1705
+\i (01:10:46) zoom in 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom in -4.2974 4.6049
+\i (01:10:46) trapsize 853
+\i (01:10:46) zoom in 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom in -4.2803 4.6049
+\i (01:10:46) trapsize 426
+\i (01:10:46) zoom out 1 
+\i (01:10:46) setwindow pcb
+\i (01:10:46) zoom out -4.2632 4.6050
+\i (01:10:46) trapsize 853
+\i (01:10:47) zoom out 1 
+\i (01:10:47) setwindow pcb
+\i (01:10:47) zoom out -4.1611 4.3833
+\i (01:10:47) trapsize 1705
+\i (01:10:47) zoom in 1 
+\i (01:10:47) setwindow pcb
+\i (01:10:47) zoom in -6.4462 7.6575
+\i (01:10:47) trapsize 853
+\i (01:10:47) zoom in 1 
+\i (01:10:47) setwindow pcb
+\i (01:10:47) zoom in -6.4461 7.6575
+\i (01:10:47) trapsize 426
+\i (01:10:49) zoom out 1 
+\i (01:10:49) setwindow pcb
+\i (01:10:49) zoom out -5.3802 6.8474
+\i (01:10:49) trapsize 853
+\i (01:10:49) zoom out 1 
+\i (01:10:49) setwindow pcb
+\i (01:10:49) zoom out -5.3804 6.8475
+\i (01:10:49) trapsize 1705
+\i (01:10:50) zoom in 1 
+\i (01:10:50) setwindow pcb
+\i (01:10:50) zoom in -7.5973 6.8475
+\i (01:10:50) trapsize 853
+\i (01:10:50) zoom in 1 
+\i (01:10:50) setwindow pcb
+\i (01:10:50) zoom in -7.5972 6.8475
+\i (01:10:50) trapsize 426
+\i (01:10:51) zoom in 1 
+\i (01:10:51) setwindow pcb
+\i (01:10:51) zoom in -7.5972 6.8475
+\i (01:10:51) trapsize 213
+\i (01:11:24) zoom out 1 
+\i (01:11:24) setwindow pcb
+\i (01:11:24) zoom out -7.7847 6.5704
+\i (01:11:24) trapsize 426
+\i (01:11:24) zoom out 1 
+\i (01:11:24) setwindow pcb
+\i (01:11:24) zoom out -7.7421 6.4596
+\i (01:11:24) trapsize 853
+\i (01:11:25) zoom out 1 
+\i (01:11:25) setwindow pcb
+\i (01:11:25) zoom out -7.7081 6.3743
+\i (01:11:25) trapsize 1705
+\i (01:11:25) zoom out 1 
+\i (01:11:25) setwindow pcb
+\i (01:11:25) zoom out -7.7081 6.3743
+\i (01:11:25) trapsize 3411
+\i (01:11:26) zoom in 1 
+\i (01:11:26) setwindow pcb
+\i (01:11:26) zoom in -9.5499 -0.5153
+\i (01:11:26) trapsize 1705
+\i (01:11:28) add text 
+\t (01:11:29) Pick text location.
+\i (01:11:31) setwindow form.mini
+\i (01:11:31) FORM mini class REF DES 
+\i (01:12:28) setwindow pcb
+\i (01:12:28) zoom in 1 
+\i (01:12:28) setwindow pcb
+\i (01:12:28) zoom in -7.9810 7.0223
+\i (01:12:28) trapsize 853
+\i (01:12:28) zoom in 1 
+\i (01:12:28) setwindow pcb
+\i (01:12:28) zoom in -7.9810 7.0223
+\i (01:12:28) trapsize 426
+\i (01:12:29) zoom in 1 
+\i (01:12:29) setwindow pcb
+\i (01:12:29) zoom in -7.3756 7.2952
+\i (01:12:29) trapsize 213
+\i (01:12:29) zoom in 1 
+\i (01:12:29) setwindow pcb
+\i (01:12:29) zoom in -7.3628 7.2952
+\i (01:12:29) trapsize 107
+\i (01:13:26) zoom out 1 
+\i (01:13:26) setwindow pcb
+\i (01:13:26) zoom out -7.0473 7.3720
+\i (01:13:26) trapsize 213
+\i (01:13:27) zoom in 1 
+\i (01:13:27) setwindow pcb
+\i (01:13:27) zoom in -5.9942 7.1759
+\i (01:13:27) trapsize 107
+\i (01:13:27) zoom in 1 
+\i (01:13:27) setwindow pcb
+\i (01:13:27) zoom in -5.9878 7.1780
+\i (01:13:27) trapsize 53
+\i (01:13:27) zoom out 1 
+\i (01:13:27) setwindow pcb
+\i (01:13:27) zoom out -5.9877 7.1781
+\i (01:13:27) trapsize 107
+\i (01:13:27) zoom out 1 
+\i (01:13:27) setwindow pcb
+\i (01:13:27) zoom out -5.9920 7.1780
+\i (01:13:27) trapsize 213
+\i (01:13:28) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:13:30) move 
+\t (01:13:30) Select element(s) to move.
+\i (01:13:33) add text 
+\t (01:13:33) Pick text location.
+\i (01:13:37) setwindow form.mini
+\i (01:13:37) FORM mini subclass SILKSCREEN_TOP 
+\i (01:13:37) setwindow pcb
+\i (01:13:37) zoom out 1 
+\i (01:13:37) setwindow pcb
+\i (01:13:37) zoom out -5.1735 7.1866
+\i (01:13:37) trapsize 426
+\i (01:13:37) zoom out 1 
+\i (01:13:37) setwindow pcb
+\i (01:13:37) zoom out -6.1625 7.1100
+\i (01:13:37) trapsize 853
+\i (01:13:37) zoom out 1 
+\i (01:13:37) setwindow pcb
+\i (01:13:37) zoom out -6.3331 7.0247
+\i (01:13:37) trapsize 1705
+\i (01:13:38) pick grid -14.8256 1.8745
+\t (01:13:38) last pick:  -14.8260 1.8750
+\t (01:13:38) Enter text string.
+\i (01:13:42) setwindow pcb
+\i (01:13:42) pick -14.8260 1.8750
+\i (01:13:46) setwindow form.mini
+\i (01:13:46) FORM mini subclass ASSEMBLY_TOP 
+\i (01:13:48) setwindow pcb
+\i (01:13:48) pick grid 0.1472 0.2715
+\t (01:13:48) last pick:  0.1470 0.2720
+\t (01:13:48) Enter text string.
+\i (01:13:51) setwindow pcb
+\i (01:13:51) prepopup -8.3113 12.5499
+\i (01:13:51) done 
+\i (01:13:51) setwindow pcb
+\i (01:13:51) pick 0.1470 0.2720
+\i (01:13:53) setwindow pcb
+\i (01:13:53) zoom in 1 
+\i (01:13:53) setwindow pcb
+\i (01:13:53) zoom in 2.6370 0.4079
+\i (01:13:53) trapsize 853
+\i (01:13:53) zoom in 1 
+\i (01:13:53) setwindow pcb
+\i (01:13:53) zoom in 2.6371 0.4079
+\i (01:13:53) trapsize 426
+\i (01:13:54) move 
+\t (01:13:54) Select element(s) to move.
+\i (01:13:57) setwindow form.find
+\i (01:13:57) FORM find all_off  
+\i (01:13:57) FORM find text YES 
+\i (01:13:58) setwindow pcb
+\i (01:13:58) pick grid 0.2325 0.3056
+\t (01:13:58) last pick:  0.2330 0.3060
+\t (01:13:58) last pick:  0.1470 0.2720
+\t (01:13:58) Pick new location for the element(s).
+\i (01:13:59) zoom out 1 
+\i (01:13:59) setwindow pcb
+\i (01:13:59) zoom out 0.5224 0.6979
+\i (01:13:59) trapsize 853
+\i (01:13:59) zoom out 1 
+\i (01:13:59) setwindow pcb
+\i (01:13:59) zoom out 0.5224 0.6978
+\i (01:13:59) trapsize 1705
+\i (01:13:59) zoom in 1 
+\i (01:13:59) setwindow pcb
+\i (01:13:59) zoom in 2.3301 0.2204
+\i (01:14:00) trapsize 853
+\i (01:14:00) zoom in 1 
+\i (01:14:00) setwindow pcb
+\i (01:14:00) zoom in 2.3472 0.2033
+\i (01:14:00) trapsize 426
+\i (01:14:01) pick grid 3.1828 -0.0524
+\t (01:14:01) last pick:  3.1830 -0.0520
+\i (01:14:02) zoom out 1 
+\i (01:14:02) setwindow pcb
+\i (01:14:02) zoom out 2.9696 0.2886
+\i (01:14:02) trapsize 853
+\i (01:14:02) zoom out 1 
+\i (01:14:02) setwindow pcb
+\i (01:14:02) zoom out 2.7309 0.5445
+\i (01:14:02) trapsize 1705
+\i (01:14:03) pick grid -15.0047 2.0792
+\t (01:14:03) last pick:  -15.0050 2.0790
+\i (01:14:04) pick grid -14.5272 2.1133
+\t (01:14:04) last pick:  -14.5270 2.1130
+\t (01:14:04) last pick:  -14.8260 1.8750
+\t (01:14:04) Pick new location for the element(s).
+\i (01:14:04) zoom in 1 
+\i (01:14:04) setwindow pcb
+\i (01:14:04) zoom in -9.7182 7.1270
+\i (01:14:04) trapsize 853
+\i (01:14:05) pick grid -9.0872 6.4279
+\t (01:14:05) last pick:  -9.0870 6.4280
+\i (01:14:06) prepopup -7.7058 8.8836
+\i (01:14:06) done 
+\i (01:14:07) save 
+\i (01:14:08) fillin yes 
+\t (01:14:08) Symbol 'fbga396-0r65mm-23_23.psm' created.
+\i (01:15:06) zoom in 1 
+\i (01:15:06) setwindow pcb
+\i (01:15:06) zoom in -5.2501 7.0759
+\i (01:15:06) trapsize 426
+\i (01:15:06) zoom in 1 
+\i (01:15:06) setwindow pcb
+\i (01:15:06) zoom in -5.1989 7.0844
+\i (01:15:06) trapsize 213
+\i (01:15:10) add line 
+\i (01:15:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:15:17) setwindow form.mini
+\i (01:15:17) FORM mini subclass SILKSCREEN_TOP 
+\i (01:15:22) FORM mini class PACKAGE GEOMETRY 
+\i (01:15:27) FORM mini subclass SILKSCREEN_TOP 
+\i (01:15:56) setwindow pcb
+\i (01:15:56) pick -6 7.3 
+\t (01:15:56) last pick:  -6.0000 7.3000
+\i (01:18:31) ipick 0.3 
+\t (01:18:31) last pick:  -5.7000 7.3000
+\i (01:18:42) ipick -0.3 -0.3 
+\t (01:18:42) last pick:  -6.0000 7.0000
+\i (01:18:48) ipick 0 0.3 
+\t (01:18:48) last pick:  -6.0000 7.3000
+\i (01:18:50) prepopup -5.9322 7.3658
+\i (01:18:51) done 
+\i (01:20:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:20:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:20:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:20:03) add line 
+\i (01:20:06) setwindow form.mini
+\i (01:20:06) FORM mini subclass ASSEMBLY_TOP 
+\i (01:20:18) setwindow pcb
+\i (01:20:18) pick -6 7.3 
+\t (01:20:18) last pick:  -6.0000 7.3000
+\i (01:20:23) ipick 0 -0.3 
+\t (01:20:23) last pick:  -6.0000 7.0000
+\i (01:20:28) ipick 0.3 0.3 
+\t (01:20:28) last pick:  -5.7000 7.3000
+\i (01:20:32) ipick -0.3 
+\t (01:20:32) last pick:  -6.0000 7.3000
+\i (01:20:34) prepopup -5.8725 7.2422
+\i (01:20:35) done 
+\i (01:20:37) save 
+\i (01:20:38) fillin yes 
+\t (01:20:39) Symbol 'fbga396-0r65mm-23_23.psm' created.
+\i (01:20:39) zoom out 1 
+\i (01:20:39) setwindow pcb
+\i (01:20:39) zoom out -5.9918 6.8713
+\i (01:20:39) trapsize 426
+\i (01:20:40) zoom in 1 
+\i (01:20:40) setwindow pcb
+\i (01:20:40) zoom in -5.9152 7.0333
+\i (01:20:40) trapsize 213
+\i (01:20:40) zoom in 1 
+\i (01:20:40) setwindow pcb
+\i (01:20:40) zoom in -5.9152 7.0333
+\i (01:20:40) trapsize 107
+\i (01:20:40) zoom in 1 
+\i (01:20:40) setwindow pcb
+\i (01:20:40) zoom in -5.9130 7.0333
+\i (01:20:40) trapsize 53
+\i (01:20:40) zoom out 1 
+\i (01:20:40) setwindow pcb
+\i (01:20:40) zoom out -5.9162 7.0301
+\i (01:20:40) trapsize 107
+\i (01:20:40) zoom out 1 
+\i (01:20:40) setwindow pcb
+\i (01:20:40) zoom out -5.9268 7.0238
+\i (01:20:40) trapsize 213
+\i (01:21:38) zoom out 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom out -6.0248 7.0323
+\i (01:21:38) trapsize 426
+\i (01:21:38) zoom out 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom out -6.0759 7.0068
+\i (01:21:38) trapsize 853
+\i (01:21:38) zoom out 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom out -6.0930 7.0068
+\i (01:21:38) trapsize 1705
+\i (01:21:38) zoom out 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom out -6.3318 6.8704
+\i (01:21:38) trapsize 3411
+\i (01:21:38) zoom out 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom out -6.4001 6.6658
+\i (01:21:38) trapsize 6821
+\i (01:21:38) zoom out 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom out -6.6729 5.7109
+\i (01:21:38) trapsize 13643
+\i (01:21:38) zoom in 1 
+\i (01:21:38) setwindow pcb
+\i (01:21:38) zoom in -31.5143 -20.6003
+\i (01:21:38) trapsize 6821
+\i (01:21:39) zoom in 1 
+\i (01:21:39) setwindow pcb
+\i (01:21:39) zoom in -4.0928 7.3670
+\i (01:21:39) trapsize 3411
+\i (01:21:39) zoom in 1 
+\i (01:21:39) setwindow pcb
+\i (01:21:39) zoom in -4.0928 7.3671
+\i (01:21:39) trapsize 1705
+\i (01:21:40) zoom in 1 
+\i (01:21:40) setwindow pcb
+\i (01:21:40) zoom in -0.6822 1.6031
+\i (01:21:40) trapsize 853
+\i (01:21:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:42) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:43) move 
+\t (01:21:43) Select element(s) to move.
+\i (01:21:46) pick grid 3.9563 0.1365
+\t (01:21:46) last pick:  3.9560 0.1370
+\t (01:21:46) last pick:  3.1830 -0.0520
+\t (01:21:46) Pick new location for the element(s).
+\i (01:21:49) pick grid -0.5287 2.3705
+\t (01:21:49) last pick:  -0.5290 2.3710
+\i (01:21:49) zoom out 1 
+\i (01:21:49) setwindow pcb
+\i (01:21:49) zoom out 0.0170 1.6713
+\i (01:21:49) trapsize 1705
+\i (01:21:49) zoom out 1 
+\i (01:21:49) setwindow pcb
+\i (01:21:49) zoom out 0.0170 1.6372
+\i (01:21:49) trapsize 3411
+\i (01:21:49) zoom in 1 
+\i (01:21:49) setwindow pcb
+\i (01:21:49) zoom in -0.9380 -0.2727
+\i (01:21:49) trapsize 1705
+\i (01:21:49) zoom in 1 
+\i (01:21:49) setwindow pcb
+\i (01:21:49) zoom in -0.9380 -0.2727
+\i (01:21:49) trapsize 853
+\i (01:21:50) zoom out 1 
+\i (01:21:50) setwindow pcb
+\i (01:21:50) zoom out -0.9379 -0.2726
+\i (01:21:50) trapsize 1705
+\i (01:21:50) zoom out 1 
+\i (01:21:50) setwindow pcb
+\i (01:21:50) zoom out -0.9721 -0.2727
+\i (01:21:50) trapsize 3411
+\i (01:21:51) prepopup 13.3526 10.5732
+\i (01:21:51) done 
+\i (01:21:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:21:55) save 
+\i (01:21:56) fillin yes 
+\t (01:21:57) Symbol 'fbga396-0r65mm-23_23.psm' created.
+\i (01:35:53) zoom in 1 
+\i (01:35:53) setwindow pcb
+\i (01:35:53) zoom in -2.7456 -0.4090
+\i (01:35:53) trapsize 1705
+\i (01:35:53) zoom in 1 
+\i (01:35:53) setwindow pcb
+\i (01:35:53) zoom in -2.7456 -0.4090
+\i (01:35:53) trapsize 853
+\i (01:35:53) zoom in 1 
+\i (01:35:53) setwindow pcb
+\i (01:35:53) zoom in -2.7456 -0.4089
+\i (01:35:53) trapsize 426
+\i (01:35:54) zoom out 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom out -2.9417 -0.4175
+\i (01:35:54) trapsize 853
+\i (01:35:54) zoom out 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom out -3.1975 -0.4174
+\i (01:35:54) trapsize 1705
+\i (01:35:54) zoom in 1 
+\i (01:35:54) setwindow pcb
+\i (01:35:54) zoom in 0.7588 -0.2468
+\i (01:35:54) trapsize 853
+\i (01:35:55) zoom out 1 
+\i (01:35:55) setwindow pcb
+\i (01:35:55) zoom out -0.4178 -0.3832
+\i (01:35:55) trapsize 1705
+\i (01:35:56) zoom in 1 
+\i (01:35:56) setwindow pcb
+\i (01:35:56) zoom in 3.0611 -0.2469
+\i (01:35:56) trapsize 853
+\i (01:35:56) zoom out 1 
+\i (01:35:56) setwindow pcb
+\i (01:35:56) zoom out 2.8224 -0.2809
+\i (01:35:56) trapsize 1705
+\i (01:35:57) zoom in 1 
+\i (01:35:57) setwindow pcb
+\i (01:35:57) zoom in -4.3059 6.7108
+\i (01:35:57) trapsize 853
+\i (01:35:57) zoom in 1 
+\i (01:35:57) setwindow pcb
+\i (01:35:57) zoom in -4.3058 6.7109
+\i (01:35:57) trapsize 426
+\i (01:35:57) zoom out 1 
+\i (01:35:57) setwindow pcb
+\i (01:35:57) zoom out -4.2973 6.6597
+\i (01:35:57) trapsize 853
+\i (01:35:57) zoom out 1 
+\i (01:35:57) setwindow pcb
+\i (01:35:57) zoom out -4.3142 6.6256
+\i (01:35:57) trapsize 1705
+\i (01:35:58) zoom out 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom out -4.7236 4.5452
+\i (01:35:58) trapsize 3411
+\i (01:35:58) zoom out 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom out -4.7235 4.5452
+\i (01:35:58) trapsize 6821
+\i (01:35:58) zoom out 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom out -7.3670 4.5451
+\i (01:35:58) trapsize 13643
+\i (01:35:58) zoom out 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom out 28.7858 20.8731
+\i (01:35:58) trapsize 13643
+\i (01:35:58) zoom out 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom out 28.7858 20.8731
+\i (01:35:58) trapsize 13643
+\i (01:35:58) zoom out 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom out 28.7858 20.6003
+\i (01:35:58) trapsize 13643
+\i (01:35:58) zoom out 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom out 28.7858 20.3274
+\i (01:35:58) trapsize 13643
+\i (01:35:58) zoom out 1 
+\i (01:35:58) setwindow pcb
+\i (01:35:58) zoom out 28.7858 20.3274
+\i (01:35:58) trapsize 13643
+\i (01:35:59) zoom in 1 
+\i (01:35:59) setwindow pcb
+\i (01:35:59) zoom in 6.6849 7.5034
+\i (01:35:59) trapsize 6821
+\i (01:35:59) zoom in 1 
+\i (01:35:59) setwindow pcb
+\i (01:35:59) zoom in -16.6440 7.5034
+\i (01:35:59) trapsize 3411
+\i (01:35:59) zoom in 1 
+\i (01:35:59) setwindow pcb
+\i (01:35:59) zoom in -1.8418 6.0028
+\i (01:35:59) trapsize 1705
+\i (01:35:59) zoom in 1 
+\i (01:35:59) setwindow pcb
+\i (01:35:59) zoom in -1.7054 5.9687
+\i (01:35:59) trapsize 853
+\i (01:36:00) zoom out 1 
+\i (01:36:00) setwindow pcb
+\i (01:36:00) zoom out -4.7408 6.0199
+\i (01:36:00) trapsize 1705
+\i (01:36:01) zoom in 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom in -1.4325 2.7457
+\i (01:36:01) trapsize 853
+\i (01:36:01) zoom in 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom in -1.4324 2.7457
+\i (01:36:01) trapsize 426
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out -1.4921 2.8906
+\i (01:36:01) trapsize 853
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out -1.4920 2.8907
+\i (01:36:01) trapsize 1705
+\i (01:36:01) zoom out 1 
+\i (01:36:01) setwindow pcb
+\i (01:36:01) zoom out -1.6285 3.3000
+\i (01:36:01) trapsize 3411
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out -1.6284 3.2999
+\i (01:36:02) trapsize 6821
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out -1.6284 3.3000
+\i (01:36:02) trapsize 13643
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 41.8827 -14.8704
+\i (01:36:02) trapsize 13643
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 41.8827 -14.8704
+\i (01:36:02) trapsize 13643
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 41.8827 -14.8704
+\i (01:36:02) trapsize 13643
+\i (01:36:02) zoom out 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom out 41.8827 -14.8704
+\i (01:36:02) trapsize 13643
+\i (01:36:02) zoom in 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom in 22.2374 -3.6835
+\i (01:36:02) trapsize 6821
+\i (01:36:02) zoom in 1 
+\i (01:36:02) setwindow pcb
+\i (01:36:02) zoom in -8.8677 -3.6834
+\i (01:36:02) trapsize 3411
+\i (01:36:03) zoom in 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom in -3.6835 1.9101
+\i (01:36:03) trapsize 1705
+\i (01:36:03) zoom in 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom in -3.5811 2.4558
+\i (01:36:03) trapsize 853
+\i (01:36:03) zoom in 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom in -3.5811 2.6093
+\i (01:36:03) trapsize 426
+\i (01:36:03) zoom out 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom out -3.8113 2.3450
+\i (01:36:03) trapsize 853
+\i (01:36:03) zoom out 1 
+\i (01:36:03) setwindow pcb
+\i (01:36:03) zoom out -3.8966 2.2598
+\i (01:36:03) trapsize 1705
+\i (01:36:04) zoom out 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom out -3.9306 2.2256
+\i (01:36:04) trapsize 3411
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in -3.9307 7.5462
+\i (01:36:04) trapsize 1705
+\i (01:36:04) zoom in 1 
+\i (01:36:04) setwindow pcb
+\i (01:36:04) zoom in -3.9306 7.5462
+\i (01:36:04) trapsize 853
+\i (01:36:05) zoom in 1 
+\i (01:36:05) setwindow pcb
+\i (01:36:05) zoom in -4.2887 7.1881
+\i (01:36:05) trapsize 426
+\i (01:36:05) zoom in 1 
+\i (01:36:05) setwindow pcb
+\i (01:36:05) zoom in -4.2887 7.1882
+\i (01:36:05) trapsize 213
+\i (01:36:05) zoom out 1 
+\i (01:36:05) setwindow pcb
+\i (01:36:05) zoom out -4.4251 6.9580
+\i (01:36:05) trapsize 426
+\i (01:36:07) zoom in 1 
+\i (01:36:07) setwindow pcb
+\i (01:36:07) zoom in -5.8661 7.1200
+\i (01:36:07) trapsize 213
+\i (01:36:08) zoom out 1 
+\i (01:36:08) setwindow pcb
+\i (01:36:08) zoom out -4.2204 6.7960
+\i (01:36:08) trapsize 426
+\i (01:36:08) zoom in 1 
+\i (01:36:08) setwindow pcb
+\i (01:36:08) zoom in -7.6823 7.4354
+\i (01:36:08) trapsize 213
+\i (01:36:11) move 
+\t (01:36:11) Select element(s) to move.
+\i (01:37:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:37:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:37:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:37:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:37:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:37:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:37:45) move 
+\t (01:37:45) Select element(s) to move.
+\i (01:37:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:37:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:37:47) pick grid -5.8661 7.1583
+\t (01:37:47) last pick:  -5.8660 7.1580
+\i (01:37:49) setwindow form.find
+\i (01:37:49) FORM find text NO 
+\i (01:37:50) FORM find lines YES 
+\i (01:37:52) setwindow pcb
+\i (01:37:52) pick grid -5.8277 7.1881
+\t (01:37:52) last pick:  -5.8280 7.1880
+\t (01:37:52) last pick:  -5.8280 7.1880
+\t (01:37:52) Element has no origin, using pick.
+\t (01:37:52) Pick new location for the element(s).
+\i (01:38:13) ipick -2 
+\t (01:38:13) last pick:  -7.8280 7.1880
+\i (01:38:16) pick grid -7.8485 7.2777
+\t (01:38:16) last pick:  -7.8480 7.2780
+\i (01:38:18) pick grid -7.9466 7.3033
+\t (01:38:18) last pick:  -7.9470 7.3030
+\t (01:38:18) last pick:  -7.9470 7.3030
+\t (01:38:18) Element has no origin, using pick.
+\t (01:38:18) Pick new location for the element(s).
+\i (01:38:41) ipick 0 0.4 
+\t (01:38:41) last pick:  -7.9470 7.7030
+\i (01:38:43) prepopup -7.6993 8.0536
+\i (01:38:43) done 
+\i (01:38:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:38:44) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:38:44) zoom in 1 
+\i (01:38:44) setwindow pcb
+\i (01:38:44) zoom in -7.9423 7.7893
+\i (01:38:44) trapsize 107
+\i (01:38:44) zoom in 1 
+\i (01:38:44) setwindow pcb
+\i (01:38:44) zoom in -7.9423 7.7893
+\i (01:38:44) trapsize 53
+\i (01:38:45) zoom out 1 
+\i (01:38:45) setwindow pcb
+\i (01:38:45) zoom out -7.8687 7.7253
+\i (01:38:45) trapsize 107
+\i (01:38:47) show measure 
+\i (01:38:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:38:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:38:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:38:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:38:49) pick grid -7.5063 7.5037
+\t (01:38:49) last pick:  -7.5060 7.5040
+\i (01:38:52) pick grid -8.0094 7.7019
+\t (01:38:52) last pick:  -8.0090 7.7020
+\i (01:39:06) setwindow text
+\i (01:39:06) close
+\i (01:39:07) prepopup -7.3422 7.9982
+\i (01:39:07) done 
+\i (01:39:08) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:09) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:10) move 
+\t (01:39:10) Select element(s) to move.
+\i (01:39:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:10) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:11) pick grid -7.9092 7.6998
+\t (01:39:11) last pick:  -7.9090 7.7000
+\t (01:39:11) last pick:  -7.9090 7.7000
+\t (01:39:11) Element has no origin, using pick.
+\t (01:39:11) Pick new location for the element(s).
+\i (01:39:18) ipick 0 0.3 
+\t (01:39:18) last pick:  -7.9090 8.0000
+\i (01:39:19) prepopup -7.7344 7.6955
+\i (01:39:20) done 
+\i (01:39:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:35) show measure 
+\i (01:39:35) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:35) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:35) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:37) pick grid -7.5042 7.4973
+\t (01:39:37) last pick:  -7.5040 7.4970
+\i (01:39:38) pick grid -8.0008 7.9982
+\t (01:39:38) last pick:  -8.0010 7.9980
+\i (01:39:44) setwindow text
+\i (01:39:44) close
+\i (01:39:44) prepopup -6.8434 7.9812
+\i (01:39:45) done 
+\i (01:39:46) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:46) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:46) zoom out 1 
+\i (01:39:46) setwindow pcb
+\i (01:39:46) zoom out -7.6065 7.5079
+\i (01:39:46) trapsize 213
+\i (01:39:46) zoom out 1 
+\i (01:39:46) setwindow pcb
+\i (01:39:46) zoom out -7.6064 7.5080
+\i (01:39:46) trapsize 426
+\i (01:39:47) zoom in 1 
+\i (01:39:47) setwindow pcb
+\i (01:39:47) zoom in -6.1314 7.1414
+\i (01:39:47) trapsize 213
+\i (01:39:47) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:39:49) move 
+\t (01:39:49) Select element(s) to move.
+\i (01:39:50) pick grid -5.9566 7.2949
+\t (01:39:50) last pick:  -5.9570 7.2950
+\t (01:39:50) last pick:  -5.9570 7.2950
+\t (01:39:50) Element has no origin, using pick.
+\t (01:39:50) Pick new location for the element(s).
+\i (01:39:58) ipick -2 iy 0.7 
+\t (01:39:58) last pick:  -7.9570 7.9950
+\i (01:40:00) prepopup -7.2057 8.1646
+\i (01:40:00) done 
+\i (01:40:01) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:40:01) zoom out 1 
+\i (01:40:01) setwindow pcb
+\i (01:40:01) zoom out -6.7538 7.9898
+\i (01:40:01) trapsize 426
+\i (01:40:01) zoom out 1 
+\i (01:40:01) setwindow pcb
+\i (01:40:01) zoom out -6.7795 7.8960
+\i (01:40:01) trapsize 853
+\i (01:40:01) zoom out 1 
+\i (01:40:01) setwindow pcb
+\i (01:40:01) zoom out -6.8818 7.6061
+\i (01:40:01) trapsize 1705
+\i (01:40:02) zoom out 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom out -7.1888 7.0604
+\i (01:40:02) trapsize 3411
+\i (01:40:02) zoom out 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom out -5.2787 6.9240
+\i (01:40:02) trapsize 6821
+\i (01:40:02) zoom out 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom out -12.2795 6.3783
+\i (01:40:02) trapsize 13643
+\i (01:40:02) zoom out 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom out 15.6889 28.2401
+\i (01:40:02) trapsize 13643
+\i (01:40:02) zoom out 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom out 16.5075 27.6944
+\i (01:40:02) trapsize 13643
+\i (01:40:02) zoom out 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom out 16.7803 27.6944
+\i (01:40:02) trapsize 13643
+\i (01:40:02) zoom in 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom in -2.0464 17.0532
+\i (01:40:02) trapsize 6821
+\i (01:40:02) zoom in 1 
+\i (01:40:02) setwindow pcb
+\i (01:40:02) zoom in -20.1910 13.3697
+\i (01:40:02) trapsize 3411
+\i (01:40:03) zoom in 1 
+\i (01:40:03) setwindow pcb
+\i (01:40:03) zoom in -4.6385 7.1624
+\i (01:40:03) trapsize 1705
+\i (01:40:03) zoom in 1 
+\i (01:40:03) setwindow pcb
+\i (01:40:03) zoom in -4.6044 7.1624
+\i (01:40:03) trapsize 853
+\i (01:40:03) zoom in 1 
+\i (01:40:03) setwindow pcb
+\i (01:40:03) zoom in -4.6044 7.1624
+\i (01:40:03) trapsize 426
+\i (01:40:04) save 
+\i (01:40:05) fillin yes 
+\t (01:40:06) Symbol 'fbga396-0r65mm-23_23.psm' created.
+\i (01:40:06) zoom out 1 
+\i (01:40:06) setwindow pcb
+\i (01:40:06) zoom out -6.3012 7.8702
+\i (01:40:06) trapsize 853
+\i (01:40:06) zoom out 1 
+\i (01:40:06) setwindow pcb
+\i (01:40:06) zoom out -6.3012 7.8702
+\i (01:40:06) trapsize 1705
+\i (01:40:07) zoom in 1 
+\i (01:40:07) setwindow pcb
+\i (01:40:07) zoom in -5.1074 7.5291
+\i (01:40:07) trapsize 853
+\i (01:40:07) zoom in 1 
+\i (01:40:07) setwindow pcb
+\i (01:40:07) zoom in -5.1074 7.5291
+\i (01:40:07) trapsize 426
+\i (01:40:15) zoom out 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom out -5.6446 7.6655
+\i (01:40:15) trapsize 853
+\i (01:40:15) zoom out 1 
+\i (01:40:15) setwindow pcb
+\i (01:40:15) zoom out -5.7127 7.6315
+\i (01:40:15) trapsize 1705
+\i (01:40:16) zoom in 1 
+\i (01:40:16) setwindow pcb
+\i (01:40:16) zoom in -6.9064 8.1431
+\i (01:40:16) trapsize 853
+\i (01:40:16) zoom in 1 
+\i (01:40:16) setwindow pcb
+\i (01:40:16) zoom in -6.9063 8.1431
+\i (01:40:16) trapsize 426
+\i (01:40:33) shape add rect 
+\i (01:40:36) setwindow form.mini
+\i (01:40:36) FORM mini class PACKAGE GEOMETRY 
+\i (01:40:43) FORM mini subclass PLACE_BOUND_TOP 
+\i (01:40:49) setwindow pcb
+\i (01:40:49) pick -10 10 
+\t (01:40:49) last pick:  -10.0000 10.0000
+\i (01:40:51) zoom out 1 
+\i (01:40:51) setwindow pcb
+\i (01:40:51) zoom out -6.1133 5.9859
+\i (01:40:51) trapsize 853
+\i (01:40:51) zoom out 1 
+\i (01:40:51) setwindow pcb
+\i (01:40:51) zoom out -6.4885 6.2587
+\i (01:40:51) trapsize 1705
+\i (01:40:51) zoom out 1 
+\i (01:40:51) setwindow pcb
+\i (01:40:51) zoom out -6.5225 6.2586
+\i (01:40:51) trapsize 3411
+\i (01:40:52) zoom out 1 
+\i (01:40:52) setwindow pcb
+\i (01:40:52) zoom out -7.4776 7.4183
+\i (01:40:52) trapsize 6821
+\i (01:40:52) zoom out 1 
+\i (01:40:52) setwindow pcb
+\i (01:40:52) zoom out -17.7354 7.4183
+\i (01:40:52) trapsize 13643
+\i (01:40:53) zoom in 1 
+\i (01:40:53) setwindow pcb
+\i (01:40:53) zoom in 4.2292 -4.7749
+\i (01:40:53) trapsize 6821
+\i (01:40:53) zoom in 1 
+\i (01:40:53) setwindow pcb
+\i (01:40:53) zoom in -17.8718 -5.0477
+\i (01:40:53) trapsize 3411
+\i (01:40:57) pick 10 10 
+\t (01:40:57) last pick:  10.0000 10.0000
+\t (01:40:57) last pick:  -10.0000 10.0000
+\e (01:40:57) ERROR(SPMHA1-387): Segment crosses the shape ... pick again.
+\i (01:41:04) pick 10 -10 
+\t (01:41:04) last pick:  10.0000 -10.0000
+\i (01:41:06) prepopup 20.6002 8.1174
+\i (01:41:07) done 
+\i (01:41:08) zoom in 1 
+\i (01:41:08) setwindow pcb
+\i (01:41:08) zoom in 7.5034 0.3412
+\i (01:41:08) trapsize 1705
+\i (01:41:08) zoom in 1 
+\i (01:41:08) setwindow pcb
+\i (01:41:08) zoom in 7.5034 0.4094
+\i (01:41:08) trapsize 853
+\i (01:41:08) zoom out 1 
+\i (01:41:08) setwindow pcb
+\i (01:41:08) zoom out 7.3670 0.2901
+\i (01:41:08) trapsize 1705
+\i (01:41:08) zoom out 1 
+\i (01:41:08) setwindow pcb
+\i (01:41:08) zoom out 7.2306 0.1878
+\i (01:41:08) trapsize 3411
+\i (01:41:09) save 
+\i (01:41:09) fillin yes 
+\t (01:41:11) Symbol 'fbga396-0r65mm-23_23.psm' created.
+\i (01:41:11) zoom in 1 
+\i (01:41:11) setwindow pcb
+\i (01:41:11) zoom in 6.3438 -4.7918
+\i (01:41:11) trapsize 1705
+\i (01:41:11) zoom in 1 
+\i (01:41:11) setwindow pcb
+\i (01:41:11) zoom in 6.3438 -4.7918
+\i (01:41:11) trapsize 853
+\i (01:41:12) zoom out 1 
+\i (01:41:12) setwindow pcb
+\i (01:41:12) zoom out 6.3438 -4.7917
+\i (01:41:12) trapsize 1705
+\i (01:41:12) zoom out 1 
+\i (01:41:12) setwindow pcb
+\i (01:41:12) zoom out 6.3438 -4.7918
+\i (01:41:12) trapsize 3411
+\i (01:41:12) zoom out 1 
+\i (01:41:12) setwindow pcb
+\i (01:41:12) zoom out 6.3438 -4.7918
+\i (01:41:12) trapsize 6821
+\i (01:41:12) zoom in 1 
+\i (01:41:12) setwindow pcb
+\i (01:41:12) zoom in 6.3437 -4.7917
+\i (01:41:12) trapsize 3411
+\i (01:41:49) zoom out 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom out -26.9441 -9.4984
+\i (01:41:49) trapsize 6821
+\i (01:41:49) zoom out 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom out -37.1078 -9.6347
+\i (01:41:49) trapsize 13643
+\i (01:41:49) zoom out 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom out -34.2428 -24.9659
+\i (01:41:49) trapsize 13643
+\i (01:41:49) zoom out 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom out -34.2428 -25.5116
+\i (01:41:49) trapsize 13643
+\i (01:41:49) zoom out 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom out -34.2428 -26.0573
+\i (01:41:49) trapsize 13643
+\i (01:41:49) zoom out 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom out -34.2428 -26.6030
+\i (01:41:49) trapsize 13643
+\i (01:41:49) zoom in 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom in 10.5048 3.9563
+\i (01:41:49) trapsize 6821
+\i (01:41:49) zoom in 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom in -14.3247 3.9564
+\i (01:41:49) trapsize 3411
+\i (01:41:49) zoom in 1 
+\i (01:41:49) setwindow pcb
+\i (01:41:49) zoom in -14.3247 3.9564
+\i (01:41:49) trapsize 1705
+\i (01:41:50) zoom out 1 
+\i (01:41:50) setwindow pcb
+\i (01:41:50) zoom out -0.3752 1.4326
+\i (01:41:50) trapsize 3411
+\i (01:41:51) zoom in 1 
+\i (01:41:51) setwindow pcb
+\i (01:41:51) zoom in 9.7204 -0.3410
+\i (01:41:51) trapsize 1705
+\i (01:41:51) zoom in 1 
+\i (01:41:51) setwindow pcb
+\i (01:41:51) zoom in 9.7886 -0.3751
+\i (01:41:51) trapsize 853
+\i (01:41:51) zoom out 1 
+\i (01:41:51) setwindow pcb
+\i (01:41:51) zoom out 8.5949 -0.4092
+\i (01:41:51) trapsize 1705
+\i (01:41:51) zoom out 1 
+\i (01:41:51) setwindow pcb
+\i (01:41:51) zoom out 8.5609 -0.4433
+\i (01:41:51) trapsize 3411
+\i (01:41:52) zoom in 1 
+\i (01:41:52) setwindow pcb
+\i (01:41:52) zoom in 11.1529 -0.4433
+\i (01:41:52) trapsize 1705
+\i (01:41:52) zoom in 1 
+\i (01:41:52) setwindow pcb
+\i (01:41:52) zoom in 12.4489 -0.8867
+\i (01:41:52) trapsize 853
+\i (01:41:52) zoom out 1 
+\i (01:41:52) setwindow pcb
+\i (01:41:52) zoom out 12.8070 -1.2448
+\i (01:41:52) trapsize 1705
+\i (01:42:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:42:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:42:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (01:42:21) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (02:23:08) zoom out 1 
+\i (02:23:08) setwindow pcb
+\i (02:23:08) zoom out -14.5463 10.4879
+\i (02:23:08) trapsize 3411
+\i (02:23:08) zoom out 1 
+\i (02:23:08) setwindow pcb
+\i (02:23:08) zoom out -14.5462 10.4878
+\i (02:23:08) trapsize 6821
+\i (02:23:08) zoom out 1 
+\i (02:23:08) setwindow pcb
+\i (02:23:08) zoom out -44.8841 9.9422
+\i (02:23:08) trapsize 13643
+\i (02:23:08) zoom out 1 
+\i (02:23:08) setwindow pcb
+\i (02:23:08) zoom out -51.1596 57.7080
+\i (02:23:08) trapsize 13643
+\i (02:23:08) zoom out 1 
+\i (02:23:08) setwindow pcb
+\i (02:23:08) zoom out -51.1596 57.4352
+\i (02:23:08) trapsize 13643
+\i (02:23:08) zoom out 1 
+\i (02:23:08) setwindow pcb
+\i (02:23:08) zoom out -51.1596 57.4352
+\i (02:23:08) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -50.6139 54.1610
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -50.6139 54.1610
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -50.6139 54.1610
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -50.6139 54.1610
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -50.6139 54.1610
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -50.6139 54.1610
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -46.7940 54.4338
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -46.7940 54.4338
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -46.7940 53.0696
+\i (02:23:09) trapsize 13643
+\i (02:23:09) zoom out 1 
+\i (02:23:09) setwindow pcb
+\i (02:23:09) zoom out -46.7940 53.0696
+\i (02:23:09) trapsize 13643
+\i (02:26:06) zoom out 1 
+\i (02:26:06) setwindow pcb
+\i (02:26:06) zoom out 69.9864 -0.1364
+\i (02:26:06) trapsize 13643
+\i (02:26:08) zoom in 1 
+\i (02:26:08) setwindow pcb
+\i (02:26:08) zoom in 69.9864 -0.1364
+\i (02:26:08) trapsize 6821
+\i (02:26:08) zoom in 1 
+\i (02:26:08) setwindow pcb
+\i (02:26:08) zoom in 15.0068 -0.1364
+\i (02:26:08) trapsize 3411
+\i (02:35:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (02:35:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (02:35:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (02:35:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (02:35:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (02:35:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (02:36:43) exit 
+\t (02:36:43)     Journal end - Sat May 26 18:13:47 2018
