@@ -1,11 +1,20 @@
 \t (00:00:00) padstack_editor 17.2 S031 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Fri May 25 16:02:17 2018
-\t (00:00:00)         Host=BIAC-003 User=daler Pid=9700 CPUs=4
-\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe F:\CLDB\test\via16d8.pad
+\t (00:00:00)     Journal start - Mon May 28 14:34:55 2018
+\t (00:00:00)         Host=BIAC-003 User=daler Pid=3108 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe F:\CLDB\test\c0_3.pad
 \t (00:00:00) 
 \d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
 \d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\t (00:00:51)     Journal end - Fri May 25 16:03:08 2018
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:13) QtSignal MainWindow Open triggered
+\d (00:00:14) QtFillin No
+\d (00:00:16) QtFillin F:/CLDB/test/via16d8.pad
+\d (00:00:17) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:28) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:34) QtSignal MainWindow Open triggered
+\d (00:00:35) QtFillin F:/CLDB/test/th45_65c.pad
+\d (00:00:36) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:42) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:48) QtFillin No
+\t (00:00:48)     Journal end - Mon May 28 14:35:44 2018
