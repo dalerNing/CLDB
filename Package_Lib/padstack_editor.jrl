@@ -1,0 +1,13 @@
+\t (00:00:00) padstack_editor 17.2 S031 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue May 29 14:39:07 2018
+\t (00:00:00)         Host=BIAC-003 User=daler Pid=904 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe F:\CLDB\Package_Lib\smd5r4cir.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:09) QtSignal 1
+\d (00:00:09) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 
+\d (00:00:11) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 5.6000
+\d (00:00:11) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 
+\d (00:00:15) QtSignal MainWindow Save triggered
+\t (00:00:17)     Journal end - Tue May 29 14:39:24 2018

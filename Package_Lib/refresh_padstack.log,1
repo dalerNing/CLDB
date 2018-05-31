@@ -1,0 +1,45 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : QFP144-0r5mm-2222L.dra                        )
+(    Software Version : 17.2S031                                      )
+(    Date/Time        : Tue May 29 14:39:32 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue May 29 14:39:32 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'F:/CLDB/Package_Lib/QFP144-0r5mm-2222L.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           F:/CLDB/Package_Lib 
+
+PADPATH =  F:/CLDB/Package_Lib 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD5R4CIR'  pad stack refresh starting.
+
+     'SMD5R4CIR'  pad stack refreshed successfully.
+     
+'SMD1R6_0R22'  pad stack refresh starting.
+
+     'SMD1R6_0R22'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.
