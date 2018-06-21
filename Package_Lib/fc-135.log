@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FC-135.dra                                    )
+(    Software Version : 17.2S031                                      )
+(    Date/Time        : Tue Jun 19 10:30:49 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CLDB/Package_Lib
+    Name      = fc-135.psm
+    User      = daler
+    Machine   = BIAC-003
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

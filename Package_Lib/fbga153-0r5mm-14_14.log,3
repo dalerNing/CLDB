@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FBGA153-0r5mm-14_14.dra                       )
+(    Software Version : 17.2S031                                      )
+(    Date/Time        : Thu Jun 14 15:33:43 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CLDB/Package_Lib
+    Name      = fbga153-0r5mm-14_14.psm
+    User      = daler
+    Machine   = BIAC-003
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

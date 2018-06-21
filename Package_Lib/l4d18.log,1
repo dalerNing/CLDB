@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : L4D18.dra                                     )
+(    Software Version : 17.2S031                                      )
+(    Date/Time        : Thu Jun 14 11:35:33 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CLDB/Package_Lib
+    Name      = l4d18.psm
+    User      = daler
+    Machine   = BIAC-003
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

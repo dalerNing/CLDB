@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : LQFP48-0r5mm-0707L.dra                        )
+(    Drawing          : Y3225.dra                                     )
 (    Software Version : 17.2S031                                      )
-(    Date/Time        : Tue May 29 18:14:34 2018                      )
+(    Date/Time        : Thu Jun 14 15:55:10 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = F:/CLDB/Package_Lib
-    Name      = lqfp48-0r5mm-0707l.psm
+    Name      = y3225.psm
     User      = daler
     Machine   = BIAC-003
 
