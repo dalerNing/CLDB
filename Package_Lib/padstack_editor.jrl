@@ -1,52 +1,15 @@
 \t (00:00:00) padstack_editor 17.2 S031 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Wed Jun 20 15:39:15 2018
-\t (00:00:00)         Host=BIAC-003 User=daler Pid=7176 CPUs=4
-\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe F:\CLDB\Package_Lib\hole3r5_3r2.pad
+\t (00:00:00)     Journal start - Mon Jun 25 16:41:53 2018
+\t (00:00:00)         Host=BIAC-003 User=daler Pid=8912 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\padstack_editor.exe F:\CLDB\Package_Lib\via40_15.pad
 \t (00:00:00) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:07) QtSignal GuidedDrillTab holeXSize editingFinished 0.2000
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
 \d (00:00:11) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:12) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
-\d (00:00:14) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:17) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
-\d (00:00:17) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
-\d (00:00:32) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 3.7000
-\d (00:00:35) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
-\d (00:00:35) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
-\d (00:00:35) QtSignal 1
-\d (00:00:35) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
-\d (00:00:35) QtSignal 
-\d (00:00:36) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
-\d (00:00:36) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
-\d (00:00:36) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
-\d (00:00:36) QtSignal 1
-\d (00:00:36) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
-\d (00:00:36) QtSignal 
-\d (00:00:37) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
-\d (00:00:37) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
-\d (00:00:37) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
-\d (00:00:37) QtSignal 1
-\d (00:00:37) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
-\d (00:00:37) QtSignal 
-\d (00:00:40) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:43) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
-\d (00:00:43) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:44) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:45) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:45) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
-\d (00:00:47) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
-\d (00:00:47) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:50) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:54) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 3.8000
-\d (00:00:56) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
-\d (00:00:56) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
-\d (00:00:56) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
-\d (00:00:56) QtSignal 1
-\d (00:00:57) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 
-\d (00:01:00) QtSignal GuidedMaskLayersTab PadDiameter editingFinished 3.8000
-\d (00:01:04) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\d (00:01:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:01:08) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:01:11) QtSignal MainWindow SaveAs triggered
-\d (00:01:15) QtFillin hole3r7_3r2.pad
-\d (00:01:18) QtSignal MainWindow Open triggered
-\d (00:01:31) QtFillin 
-\t (00:01:33)     Journal end - Wed Jun 20 15:40:48 2018
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
+\d (00:00:17) QtSignal MainWindow SaveAs triggered
+\d (00:00:47) QtFillin via40_20.pad
+\t (00:00:50)     Journal end - Mon Jun 25 16:42:43 2018

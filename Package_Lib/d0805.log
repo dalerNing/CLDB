@@ -3,8 +3,8 @@
 (    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : D0805.dra                                     )
-(    Software Version : 17.2S031                                      )
-(    Date/Time        : Thu May 31 15:49:23 2018                      )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Thu Sep 13 16:56:45 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -12,7 +12,7 @@
 Create Symbol of type: PACKAGE
     Directory = F:/CLDB/Package_Lib
     Name      = d0805.psm
-    User      = daler
+    User      = dal
     Machine   = BIAC-003
 
 

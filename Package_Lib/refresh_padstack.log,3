@@ -1,0 +1,34 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : C0402.dra                                     )
+(    Software Version : 17.2S031                                      )
+(    Date/Time        : Tue Jul 17 16:13:00 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Jul 17 16:13:00 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'F:/CLDB/Package_Lib/C0402.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  F:/CLDB/Package_Lib 
+
+PADPATH =  F:/CLDB/Package_Lib 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD0R8_0R7'  pad stack refresh starting.
+
+     'SMD0R8_0R7'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

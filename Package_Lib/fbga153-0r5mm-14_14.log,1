@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : FBGA153-0r5mm-14_14.dra                       )
 (    Software Version : 17.2S031                                      )
-(    Date/Time        : Thu Jun 14 15:28:23 2018                      )
+(    Date/Time        : Fri Jul 13 15:14:12 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -18,7 +18,6 @@ Create Symbol of type: PACKAGE
 
 Create symbol started.
  
- ERROR(SPMHCS-1): Symbol is missing a refdes. 
 
-ERROR(SPMHA1-291): Create symbol has been aborted.
+Create symbol completed.
 

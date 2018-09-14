@@ -1,25 +1,96 @@
-\t (00:00:02) allegro 17.2 S031 Windows SPB 64-bit Edition
-\t (00:00:02)     Journal start - Thu Jun 21 20:57:32 2018
-\t (00:00:02)         Host=BIAC-003 User=daler Pid=9728 CPUs=4
-\t (00:00:02) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:02) 
-   (00:00:02) Loading axlcore.cxt 
-\t (00:00:04) Opening existing design...
-\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged SWITCH
-\d (00:00:04) Design opened: F:/CLDB/Package_Lib/SWITCH.dra
-\i (00:00:04) trapsize 686
-\i (00:00:04) trapsize 634
-\i (00:00:04) trapsize 634
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
-\i (00:00:05) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
-\i (00:00:07) open 
-\i (00:00:32) fillin "E:\ARM_A64_START_BASE\Lib\Package_Lib\micro_sd.dra"
-\i (00:00:32) cd "E:\ARM_A64_START_BASE\Lib\Package_Lib"
-\t (00:00:32) Opening existing design...
-\i (00:00:33) fillin yes 
-\i (00:00:33) trapsize 1267
-\t (00:00:33)     Journal end - Thu Jun 21 20:58:02 2018
+\t (00:00:05) allegro 17.2 S045 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Fri Sep 14 14:05:18 2018
+\t (00:00:05)         Host=BIAC-003 User=dal Pid=8700 CPUs=4
+\t (00:00:05) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\i (00:00:06) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged TC3216A
+\d (00:00:06) Design opened: F:/CLDB/Package_Lib/TC3216A.dra
+\i (00:00:07) trapsize 899
+\i (00:00:07) trapsize 924
+\i (00:00:07) trapsize 899
+\i (00:00:07) trapsize 899
+\i (00:00:08) generaledit 
+\i (00:00:27) open 
+\i (00:00:34) fillin "QFN68-0r4mm-0808LH.dra"
+\t (00:00:34) Opening existing design...
+\i (00:00:34) trapsize 2687
+\i (00:00:34) trapsize 2764
+\i (00:00:34) trapsize 2687
+\i (00:00:34) trapsize 2813
+\d (00:00:34) Design opened: F:/CLDB/Package_Lib/QFN68-0r4mm-0808LH.dra
+\i (00:00:34) trapsize 4927620
+\i (00:00:35) generaledit 
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 8.8381 -0.0151
+\i (00:00:35) trapsize 1406
+\i (00:00:35) zoom in 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom in 8.8381 -0.0432
+\i (00:00:35) trapsize 703
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 7.7271 -0.2401
+\i (00:00:36) trapsize 1406
+\i (00:00:38) 3d 
+\i (00:00:39) generaledit 
+\i (00:00:43) QtSignal pcb3dViewerCamMenu Bottom triggered
+\i (00:00:44) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 422 200 422 246 0 0 -120
+\i (00:00:44) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 422 200 422 246 0 0 -120
+\i (00:00:44) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 422 200 422 246 0 0 -120
+\i (00:00:44) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 426 187 426 233 0 0 120
+\i (00:00:44) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 426 187 426 233 0 0 120
+\i (00:00:55) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:01:00) zoom in 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom in -2.5949 4.5694
+\i (00:01:01) trapsize 703
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in -2.5949 4.5694
+\i (00:01:01) trapsize 352
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out -3.2769 4.1264
+\i (00:01:02) trapsize 703
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out -3.2769 4.1265
+\i (00:01:02) trapsize 1406
+\i (00:02:23) step pkg map 
+\i (00:02:26) fillin confirm
+\i (00:02:27) setwindow form.pkgmap3d
+\i (00:02:27) FORM pkgmap3d stplist 'User Library-QFN68(8x8mm).STEP' 
+\i (00:02:30) fillin confirm
+\i (00:02:32) FORM pkgmap3d save_current  
+\i (00:02:33) FORM pkgmap3d done  
+\i (00:02:33) setwindow pcb
+\i (00:02:33) generaledit 
+\i (00:02:35) 3d 
+\i (00:02:36) generaledit 
+\i (00:02:39) QtSignal pcb3dViewerCamMenu Bottom triggered
+\i (00:02:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 625 300 625 346 0 0 -120
+\i (00:02:39) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasWheelEvent 627 300 627 346 0 0 -120
+\i (00:02:40) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:02:50) define materials 
+   (00:02:51) Loading floor.cxt 
+\i (00:02:52) setwindow form.fpDefineMaterials
+\i (00:02:52) FORM fpDefineMaterials cancel  
+\i (00:02:52) setwindow pcb
+\i (00:02:52) generaledit 
+\i (00:02:55) step pkg map 
+\i (00:02:59) fillin confirm
+\i (00:03:01) setwindow form.pkgmap3d
+\i (00:03:01) FORM pkgmap3d stplist 'User Library-QFN68(8x8mm).STEP' 
+\i (00:03:06) fillin confirm
+\i (00:03:11) FORM pkgmap3d done  
+\i (00:03:11) setwindow pcb
+\i (00:03:11) generaledit 
+\i (00:03:13) save 
+\i (00:03:14) fillin yes 
+\t (00:03:14) Symbol 'qfn68-0r4mm-0808lh.psm' created.
+\i (00:03:14) generaledit 
+\i (00:03:15) exit 
+\t (00:03:15)     Journal end - Fri Sep 14 14:08:28 2018

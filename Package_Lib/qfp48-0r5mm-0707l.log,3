@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : QFP48-0r5mm-0707L.dra                         )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Wed Sep 12 16:27:01 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = F:/CLDB/Package_Lib
+    Name      = qfp48-0r5mm-0707l.psm
+    User      = dal
+    Machine   = BIAC-003
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

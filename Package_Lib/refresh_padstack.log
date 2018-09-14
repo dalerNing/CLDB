@@ -2,44 +2,33 @@
 (                                                                     )
 (    Refresh Padstack                                                 )
 (                                                                     )
-(    Drawing          : QFN68-0r4mm-0808LH.dra                        )
+(    Drawing          : R0402.dra                                     )
 (    Software Version : 17.2S031                                      )
-(    Date/Time        : Tue May 29 15:50:22 2018                      )
+(    Date/Time        : Tue Jul 17 16:13:33 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue May 29 15:50:22 2018				Page     1
+Tue Jul 17 16:13:33 2018				Page     1
 
 
 ------ Pad Stack Refresh Options ------
 
-Input design  = 'F:/CLDB/Package_Lib/QFN68-0r4mm-0808LH.dra'
+Input design  = 'F:/CLDB/Package_Lib/R0402.dra'
 Output design = ''
 Reset symbol text and size locations   = 'NO'
 
 
 ------ Library Paths ------
-PSMPATH =  . 
-           symbols 
-           .. 
-           ../symbols 
-           c:/cadence/cadence/cadence_spb_17.2-2016/share/local/pcb/symbols 
-           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/pcb_lib/symbols 
-           c:/cadence/cadence/cadence_spb_17.2-2016/share/pcb/allegrolib/symbols 
-           F:/CLDB/Package_Lib 
+PSMPATH =  F:/CLDB/Package_Lib 
 
 PADPATH =  F:/CLDB/Package_Lib 
 
 
 ------ Pad Stack Refresh Messages ------
 
-'SMD5R49SQ'  pad stack refresh starting.
+'SMD0R8_0R7'  pad stack refresh starting.
 
-     'SMD5R49SQ'  pad stack refreshed successfully.
-     
-'SMD1R0_0R2OB'  pad stack refresh starting.
-
-     'SMD1R0_0R2OB'  pad stack refreshed successfully.
+     'SMD0R8_0R7'  pad stack refreshed successfully.
      
 Completed refreshing all pad stacks successfully.
