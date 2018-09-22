@@ -1,3 +1,5 @@
 # CLDB
 *.log
 *.log,[123]
+*.jrl
+*.jrl,[123]
