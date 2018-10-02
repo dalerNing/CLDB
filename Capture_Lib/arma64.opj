@@ -12,11 +12,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\arma64.olb"))
+      (Path "Design Resources" ".\arma64.olb")
+      (Select "Design Resources" ".\arma64.olb" "MT29F16G08CBACAWP"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -9 -36 0 200 0 423"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 423"))
       (Tab 0)))
-  (MPSSessionName "daler"))
+  (MPSSessionName "dal"))
