@@ -1,1 +1,1 @@
-TSSOP16.dra
+CIS18_d0r5_stand.dra
